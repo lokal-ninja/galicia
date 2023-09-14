@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
-url: /a-coruna/gadis/
+url: /a-coruna/gadis-rua-orillamar/
 shop: supermercado
 ---

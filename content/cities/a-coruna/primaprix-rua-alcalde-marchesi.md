@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
-url: /a-coruna/primaprix/
+url: /a-coruna/primaprix-rua-alcalde-marchesi/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /a-coruna/eroski/
+url: /a-coruna/eroski-avenida-de-monelos/
 shop: supermercado
 ---

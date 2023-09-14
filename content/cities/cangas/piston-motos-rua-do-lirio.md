@@ -1,5 +1,5 @@
 ---
 title: "Pistón Motos"
-url: /cangas/piston-motos/
+url: /cangas/piston-motos-rua-do-lirio/
 shop: motocicleta
 ---

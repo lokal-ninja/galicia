@@ -1,5 +1,5 @@
 ---
 title: "Santy"
-url: /naron/santy/
+url: /naron/santy-rua-francisco-pizarro/
 shop: panadería
 ---

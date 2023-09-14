@@ -1,5 +1,5 @@
 ---
 title: "Corplama"
-url: /ferrol/corplama/
+url: /ferrol/corplama-estrada-de-castela/
 shop: cuarto de baño
 ---

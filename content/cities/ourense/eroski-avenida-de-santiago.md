@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /ourense/eroski/
+url: /ourense/eroski-avenida-de-santiago/
 shop: supermercado
 ---

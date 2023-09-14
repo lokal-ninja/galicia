@@ -1,5 +1,5 @@
 ---
 title: "Platas"
-url: /ferrol/platas/
+url: /ferrol/platas-rua-real/
 shop: joyería
 ---

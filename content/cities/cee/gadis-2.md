@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
-url: /cee/gadis/
+url: /cee/gadis-2/
 shop: supermercado
 ---

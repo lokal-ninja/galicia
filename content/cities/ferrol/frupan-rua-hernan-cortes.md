@@ -1,5 +1,5 @@
 ---
 title: "Frupan"
-url: /ferrol/frupan/
+url: /ferrol/frupan-rua-hernan-cortes/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /vigo/froiz/
+url: /vigo/froiz-rua-gregorio-espino/
 shop: supermercado
 ---

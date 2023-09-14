@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /a-coruna/coviran/
+url: /a-coruna/coviran-avenida-de-arteixo/
 shop: supermercado
 ---

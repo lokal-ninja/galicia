@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
-url: /vigo/gadis/
+url: /vigo/gadis-rua-rosalia-de-castro/
 shop: supermercado
 ---

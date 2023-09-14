@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /vigo/eroski/
+url: /vigo/eroski-travesia-de-vigo/
 shop: supermercado
 ---

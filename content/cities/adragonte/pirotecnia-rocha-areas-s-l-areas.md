@@ -1,5 +1,5 @@
 ---
 title: "Pirotécnia Rocha-Areas, S.L."
-url: /adragonte/pirotecnia-rocha-areas-s-l/
+url: /adragonte/pirotecnia-rocha-areas-s-l-areas/
 shop: pirotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /o-grove/froiz/
+url: /o-grove/froiz-2/
 shop: supermercado
 ---
