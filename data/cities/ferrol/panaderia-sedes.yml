@@ -1,11 +1,11 @@
-id: 8731114145
-type: node
-latitude: 43.48188
-longitude: -8.23801
-postcode: "15402"
+id: 458779121
+type: way
+latitude: 43.50324
+longitude: -8.25141
+postcode: "15405"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 215
+street: "Avenida de Grandal"
+housenumber: 81
 phone: ""
-opening_hours: "Mo-Fr 08:30-14:30,17:30-20:00; PH,Sa,Su 09:00-14:30"
+opening_hours: ""
 website: ""

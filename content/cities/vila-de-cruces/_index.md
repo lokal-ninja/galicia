@@ -1,6 +1,6 @@
 ---
 title: Vila de Cruces
 url: /vila-de-cruces/
-latitude: 42.785
-longitude: -8.17
+latitude: 42.794
+longitude: -8.169
 ---
