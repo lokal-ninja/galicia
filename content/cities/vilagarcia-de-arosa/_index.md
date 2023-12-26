@@ -1,6 +1,6 @@
 ---
 title: Vilagarcía de Arosa
 url: /vilagarcia-de-arosa/
-latitude: 42.584
-longitude: -8.741
+latitude: 42.592
+longitude: -8.75
 ---
