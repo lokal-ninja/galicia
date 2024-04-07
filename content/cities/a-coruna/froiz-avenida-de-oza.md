@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /carral/froiz-rua-victor-velasco/
+url: /a-coruna/froiz-avenida-de-oza/
 shop: supermercado
 ---

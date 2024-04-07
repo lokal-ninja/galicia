@@ -1,6 +1,6 @@
 ---
 title: A Feira do Monte
 url: /a-feira-do-monte/
-latitude: 43.234
-longitude: -7.557
+latitude: 43.236
+longitude: -7.555
 ---
