@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /coristanco/carrefour/
+url: /oca/carrefour/
 shop: supermercado
 ---
