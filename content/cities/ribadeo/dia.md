@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /ribadeo/dia/
-shop: supermercado
+shop: Supermarkt
 ---

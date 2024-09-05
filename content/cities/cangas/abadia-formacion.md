@@ -1,5 +1,5 @@
 ---
 title: "Abadia Formacion"
 url: /cangas/abadia-formacion/
-shop: ordenador
+shop: Computer
 ---

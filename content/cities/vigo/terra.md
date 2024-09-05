@@ -1,5 +1,5 @@
 ---
 title: "Terra"
 url: /vigo/terra/
-shop: deportes
+shop: Sport
 ---

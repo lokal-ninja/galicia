@@ -1,5 +1,5 @@
 ---
 title: "Metropolis Comics"
 url: /ferrol/metropolis-comics/
-shop: colector
+shop: Sammler
 ---

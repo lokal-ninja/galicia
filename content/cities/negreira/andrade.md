@@ -1,5 +1,5 @@
 ---
 title: "Andrade"
 url: /negreira/andrade/
-shop: peluquería
+shop: Friseur
 ---

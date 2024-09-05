@@ -1,5 +1,5 @@
 ---
 title: "Instetic"
 url: /ferrol/instetic/
-shop: cosméticos
+shop: Kosmetik
 ---

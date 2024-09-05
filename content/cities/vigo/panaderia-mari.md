@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mari"
 url: /vigo/panaderia-mari/
-shop: panadería
+shop: Bäckerei
 ---

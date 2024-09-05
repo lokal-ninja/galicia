@@ -1,5 +1,5 @@
 ---
 title: "Meigallo"
 url: /redondela/meigallo/
-shop: tienda
+shop: Modehaus
 ---

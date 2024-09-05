@@ -1,5 +1,5 @@
 ---
 title: "La Naranja"
 url: /ferrol/la-naranja/
-shop: frutería
+shop: Gemüse & Obst
 ---

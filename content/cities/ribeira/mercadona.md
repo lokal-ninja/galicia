@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ribeira/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

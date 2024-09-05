@@ -1,5 +1,5 @@
 ---
 title: "Terciopelo"
 url: /ferrol/terciopelo/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holu"
 url: /vigo/holu/
-shop: ropa
+shop: Kleidung
 ---

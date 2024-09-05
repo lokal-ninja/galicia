@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /vigo/dia/
-shop: supermercado
+shop: Supermarkt
 ---

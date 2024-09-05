@@ -1,5 +1,5 @@
 ---
 title: "RossyA"
 url: /ferrol/rossya/
-shop: cosméticos
+shop: Kosmetik
 ---

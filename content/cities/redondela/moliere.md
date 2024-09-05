@@ -1,5 +1,5 @@
 ---
 title: "Moliere"
 url: /redondela/moliere/
-shop: libros
+shop: Bücher
 ---

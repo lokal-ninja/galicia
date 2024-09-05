@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /oca/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

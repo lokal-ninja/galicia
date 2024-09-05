@@ -1,5 +1,5 @@
 ---
 title: "A barbería de Pablo"
 url: /cambre/a-barberia-de-pablo/
-shop: peluquería
+shop: Friseur
 ---

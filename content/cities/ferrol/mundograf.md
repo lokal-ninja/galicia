@@ -1,5 +1,5 @@
 ---
 title: "Mundograf"
 url: /ferrol/mundograf/
-shop: copyshop
+shop: Kopieren
 ---

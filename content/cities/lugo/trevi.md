@@ -1,5 +1,5 @@
 ---
 title: "Trevi"
 url: /lugo/trevi/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /betanzos/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

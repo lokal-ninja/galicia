@@ -1,5 +1,5 @@
 ---
 title: "Imaxe"
 url: /abegondo/imaxe/
-shop: peluquería
+shop: Friseur
 ---

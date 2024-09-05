@@ -1,5 +1,5 @@
 ---
 title: "Brico Pestañas"
 url: /boiro/brico-pestanas/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---

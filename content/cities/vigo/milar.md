@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /vigo/milar/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homen's"
 url: /vigo/homens/
-shop: peluquería
+shop: Friseur
 ---

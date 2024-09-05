@@ -1,5 +1,5 @@
 ---
 title: "Mascotas"
 url: /cangas/mascotas/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faustino Sánchez García"
 url: /vigo/faustino-sanchez-garcia/
-shop: panadería
+shop: Bäckerei
 ---

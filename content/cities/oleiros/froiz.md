@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /oleiros/froiz/
-shop: supermercado
+shop: Supermarkt
 ---

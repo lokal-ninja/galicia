@@ -1,5 +1,5 @@
 ---
 title: "Cincelaser"
 url: /pontevedra/cincelaser/
-shop: regalo
+shop: Andenken
 ---

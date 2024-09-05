@@ -1,5 +1,5 @@
 ---
 title: "Duende"
 url: /cangas/duende/
-shop: ropa
+shop: Kleidung
 ---

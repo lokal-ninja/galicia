@@ -1,5 +1,5 @@
 ---
 title: "Zoonort"
 url: /mosteiro/zoonort/
-shop: agraria
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /santiago-de-compostela/romero/
-shop: zapatos
+shop: Schuhe
 ---

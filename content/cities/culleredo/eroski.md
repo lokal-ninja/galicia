@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /culleredo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

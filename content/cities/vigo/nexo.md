@@ -1,5 +1,5 @@
 ---
 title: "Nexo"
 url: /vigo/nexo/
-shop: muebles
+shop: Möbel
 ---

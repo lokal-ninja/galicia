@@ -1,5 +1,5 @@
 ---
 title: "Loli"
 url: /a-coruna/loli/
-shop: peluquería
+shop: Friseur
 ---

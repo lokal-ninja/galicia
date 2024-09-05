@@ -1,5 +1,5 @@
 ---
 title: "Mollete"
 url: /ferrol/mollete/
-shop: panadería
+shop: Bäckerei
 ---

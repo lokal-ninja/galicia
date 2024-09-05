@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /ferrol/gloria/
-shop: quiosco
+shop: Kiosk
 ---

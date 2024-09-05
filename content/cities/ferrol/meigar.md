@@ -1,5 +1,5 @@
 ---
 title: "Meigar"
 url: /ferrol/meigar/
-shop: carnicero
+shop: Metzgerei
 ---

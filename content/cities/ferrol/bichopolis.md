@@ -1,5 +1,5 @@
 ---
 title: "Bichopolis"
 url: /ferrol/bichopolis/
-shop: mascotas
+shop: Tiere
 ---

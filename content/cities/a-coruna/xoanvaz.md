@@ -1,5 +1,5 @@
 ---
 title: "Xoanvaz"
 url: /a-coruna/xoanvaz/
-shop: peluquería
+shop: Friseur
 ---

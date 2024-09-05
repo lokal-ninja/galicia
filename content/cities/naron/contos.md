@@ -1,5 +1,5 @@
 ---
 title: "Contos"
 url: /naron/contos/
-shop: libros
+shop: Bücher
 ---

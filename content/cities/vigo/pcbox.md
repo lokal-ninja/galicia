@@ -1,5 +1,5 @@
 ---
 title: "PCBOX"
 url: /vigo/pcbox/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /coruna/familia/
-shop: supermercado
+shop: Supermarkt
 ---

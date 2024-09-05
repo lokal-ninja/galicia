@@ -1,5 +1,5 @@
 ---
 title: "Zarifa"
 url: /redondela/zarifa/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /pontevedra/springfield/
-shop: ropa
+shop: Kleidung
 ---

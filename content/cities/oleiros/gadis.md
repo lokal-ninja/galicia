@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /oleiros/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novalux"
 url: /ferrol/novalux/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Martínez"
 url: /pontevedra/electronica-martinez/
-shop: electrónica
+shop: Elektronik
 ---

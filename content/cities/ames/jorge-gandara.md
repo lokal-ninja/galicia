@@ -1,5 +1,5 @@
 ---
 title: "Jorge Gándara"
 url: /ames/jorge-gandara/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M. Fidalgo Joyerías"
 url: /ferrol/m-fidalgo-joyerias/
-shop: joyería
+shop: Schmuck
 ---

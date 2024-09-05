@@ -1,5 +1,5 @@
 ---
 title: "Acentos"
 url: /naron/acentos/
-shop: peluquería
+shop: Friseur
 ---

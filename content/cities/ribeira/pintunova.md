@@ -1,5 +1,5 @@
 ---
 title: "Pintunova"
 url: /ribeira/pintunova/
-shop: pintura
+shop: Farben
 ---

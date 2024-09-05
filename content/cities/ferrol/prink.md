@@ -1,5 +1,5 @@
 ---
 title: "Prink"
 url: /ferrol/prink/
-shop: copyshop
+shop: Kopieren
 ---

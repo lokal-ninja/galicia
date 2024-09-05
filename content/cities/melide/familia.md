@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /melide/familia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /lugo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

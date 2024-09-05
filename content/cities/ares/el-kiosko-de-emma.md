@@ -1,5 +1,5 @@
 ---
 title: "El Kiosko de Emma"
 url: /ares/el-kiosko-de-emma/
-shop: quiosco
+shop: Kiosk
 ---

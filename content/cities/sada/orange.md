@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /sada/orange/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raquel"
 url: /muxia/raquel/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tenreiro"
 url: /oleiros/tenreiro/
-shop: marisco
+shop: Fisch
 ---

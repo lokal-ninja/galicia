@@ -1,5 +1,5 @@
 ---
 title: "Juncal Alimentación"
 url: /pontevedra/juncal-alimentacion/
-shop: lácteos
+shop: Milch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosalía"
 url: /ferrol/rosalia/
-shop: frutería
+shop: Gemüse & Obst
 ---

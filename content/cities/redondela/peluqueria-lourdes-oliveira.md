@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Lourdes Oliveira"
 url: /redondela/peluqueria-lourdes-oliveira/
-shop: peluquería
+shop: Friseur
 ---

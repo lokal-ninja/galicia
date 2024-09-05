@@ -1,5 +1,5 @@
 ---
 title: "Agropose"
 url: /boiro/agropose/
-shop: agraria
+shop: Landwirtschaftlich
 ---

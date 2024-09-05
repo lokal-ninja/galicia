@@ -1,5 +1,5 @@
 ---
 title: "Malopa"
 url: /cangas/malopa/
-shop: floristería
+shop: Blumen
 ---

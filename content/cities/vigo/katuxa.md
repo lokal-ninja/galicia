@@ -1,5 +1,5 @@
 ---
 title: "Katuxa"
 url: /vigo/katuxa/
-shop: frutería
+shop: Gemüse & Obst
 ---

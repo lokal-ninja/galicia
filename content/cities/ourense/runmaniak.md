@@ -1,5 +1,5 @@
 ---
 title: "RunManiak"
 url: /ourense/runmaniak/
-shop: deportes
+shop: Sport
 ---

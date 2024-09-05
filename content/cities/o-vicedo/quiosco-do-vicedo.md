@@ -1,5 +1,5 @@
 ---
 title: "Quiosco do Vicedo"
 url: /o-vicedo/quiosco-do-vicedo/
-shop: quiosco
+shop: Kiosk
 ---

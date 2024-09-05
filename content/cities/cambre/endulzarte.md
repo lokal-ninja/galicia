@@ -1,5 +1,5 @@
 ---
 title: "Endulzarte"
 url: /cambre/endulzarte/
-shop: confitería
+shop: Süßwaren
 ---

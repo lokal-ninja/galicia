@@ -1,5 +1,5 @@
 ---
 title: "Txustta"
 url: /pontevedra/txustta/
-shop: ropa
+shop: Kleidung
 ---

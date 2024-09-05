@@ -1,5 +1,5 @@
 ---
 title: "Joyme"
 url: /naron/joyme/
-shop: perfumería
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nikis"
 url: /ferrol/nikis/
-shop: ropa
+shop: Kleidung
 ---

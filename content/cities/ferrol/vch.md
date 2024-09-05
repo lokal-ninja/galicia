@@ -1,5 +1,5 @@
 ---
 title: "VCH"
 url: /ferrol/vch/
-shop: peluquería
+shop: Friseur
 ---

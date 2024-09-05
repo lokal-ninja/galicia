@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /redondela/dia/
-shop: supermercado
+shop: Supermarkt
 ---

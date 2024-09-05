@@ -1,5 +1,5 @@
 ---
 title: "Meigallo"
 url: /sada/meigallo/
-shop: general
+shop: Allgemein
 ---

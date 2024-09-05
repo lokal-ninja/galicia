@@ -1,5 +1,5 @@
 ---
 title: "Panadería Paco"
 url: /sanxenxo/panaderia-paco/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /ribeira/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

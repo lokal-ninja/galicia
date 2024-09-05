@@ -1,5 +1,5 @@
 ---
 title: "Panaderia da Cunha"
 url: /carral/panaderia-da-cunha/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Somos soluciones"
 url: /naron/somos-soluciones/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

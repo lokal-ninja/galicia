@@ -1,5 +1,5 @@
 ---
 title: "Arce"
 url: /ferrol/arce/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /sada/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

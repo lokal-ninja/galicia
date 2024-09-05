@@ -1,5 +1,5 @@
 ---
 title: "Mampabaño"
 url: /bertamirans/mampabano/
-shop: muebles
+shop: Möbel
 ---

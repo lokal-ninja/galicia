@@ -1,5 +1,5 @@
 ---
 title: "Cash Record"
 url: /lugo/cash-record/
-shop: mayorista
+shop: Großhandel
 ---

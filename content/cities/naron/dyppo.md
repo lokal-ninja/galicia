@@ -1,5 +1,5 @@
 ---
 title: "Dyppo"
 url: /naron/dyppo/
-shop: farmacia
+shop: Drogerie
 ---

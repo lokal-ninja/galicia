@@ -1,5 +1,5 @@
 ---
 title: "Luz"
 url: /naron/luz/
-shop: peluquería
+shop: Friseur
 ---

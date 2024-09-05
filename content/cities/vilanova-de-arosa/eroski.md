@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /vilanova-de-arosa/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

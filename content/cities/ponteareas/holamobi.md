@@ -1,5 +1,5 @@
 ---
 title: "holaMOBI"
 url: /ponteareas/holamobi/
-shop: teléfono móvil
+shop: Handy
 ---

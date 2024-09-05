@@ -1,5 +1,5 @@
 ---
 title: "Zatalua"
 url: /ferrol/zatalua/
-shop: supermercado
+shop: Supermarkt
 ---

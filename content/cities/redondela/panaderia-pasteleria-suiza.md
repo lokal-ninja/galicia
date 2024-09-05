@@ -1,5 +1,5 @@
 ---
 title: "Panadería Pastelería Suíza"
 url: /redondela/panaderia-pasteleria-suiza/
-shop: panadería
+shop: Bäckerei
 ---

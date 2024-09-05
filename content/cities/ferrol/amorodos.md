@@ -1,5 +1,5 @@
 ---
 title: "Amorodos"
 url: /ferrol/amorodos/
-shop: frutería
+shop: Gemüse & Obst
 ---

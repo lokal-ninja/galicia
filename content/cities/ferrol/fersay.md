@@ -1,5 +1,5 @@
 ---
 title: "Fersay"
 url: /ferrol/fersay/
-shop: aparato
+shop: Haushaltsgeräte
 ---

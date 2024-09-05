@@ -1,5 +1,5 @@
 ---
 title: "Formas"
 url: /a-coruna/formas/
-shop: peluquería
+shop: Friseur
 ---

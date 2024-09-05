@@ -1,5 +1,5 @@
 ---
 title: "Decimas"
 url: /sarria/decimas/
-shop: ropa
+shop: Kleidung
 ---

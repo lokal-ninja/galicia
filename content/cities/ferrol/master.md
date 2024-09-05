@@ -1,5 +1,5 @@
 ---
 title: "Master"
 url: /ferrol/master/
-shop: aparato
+shop: Haushaltsgeräte
 ---

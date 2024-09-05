@@ -1,5 +1,5 @@
 ---
 title: "Remuíño"
 url: /negreira/remuino/
-shop: libros
+shop: Bücher
 ---

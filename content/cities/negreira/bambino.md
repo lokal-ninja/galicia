@@ -1,5 +1,5 @@
 ---
 title: "Bambino"
 url: /negreira/bambino/
-shop: ropa
+shop: Kleidung
 ---

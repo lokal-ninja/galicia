@@ -1,5 +1,5 @@
 ---
 title: "Carral"
 url: /carral/carral/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galicia"
 url: /vigo/galicia/
-shop: zapatos
+shop: Schuhe
 ---

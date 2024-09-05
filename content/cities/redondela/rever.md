@@ -1,5 +1,5 @@
 ---
 title: "Rever"
 url: /redondela/rever/
-shop: ordenador
+shop: Computer
 ---

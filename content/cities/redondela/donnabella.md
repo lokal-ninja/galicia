@@ -1,5 +1,5 @@
 ---
 title: "Donnabella"
 url: /redondela/donnabella/
-shop: ropa
+shop: Kleidung
 ---

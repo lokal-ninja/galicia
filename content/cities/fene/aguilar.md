@@ -1,5 +1,5 @@
 ---
 title: "Aguilar"
 url: /fene/aguilar/
-shop: hardware
+shop: Eisenwaren
 ---

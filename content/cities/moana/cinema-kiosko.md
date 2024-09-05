@@ -1,5 +1,5 @@
 ---
 title: "Cinema Kiosko"
 url: /moana/cinema-kiosko/
-shop: confitería
+shop: Süßwaren
 ---

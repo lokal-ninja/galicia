@@ -1,5 +1,5 @@
 ---
 title: "Eurofrut"
 url: /bergondo/eurofrut/
-shop: frutería
+shop: Gemüse & Obst
 ---

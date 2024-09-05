@@ -1,5 +1,5 @@
 ---
 title: "Valencia"
 url: /ferrol/valencia/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lonxa de Esteiro"
 url: /esteiro/lonxa-de-esteiro/
-shop: marisco
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mANDaMAmá"
 url: /redondela/mandamama/
-shop: zapatos
+shop: Schuhe
 ---

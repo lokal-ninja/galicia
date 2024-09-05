@@ -1,5 +1,5 @@
 ---
 title: "Isus"
 url: /naron/isus/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Athenea"
 url: /ferrol/athenea/
-shop: peluquería
+shop: Friseur
 ---

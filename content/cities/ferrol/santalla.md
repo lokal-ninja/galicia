@@ -1,5 +1,5 @@
 ---
 title: "Santalla"
 url: /ferrol/santalla/
-shop: panadería
+shop: Bäckerei
 ---

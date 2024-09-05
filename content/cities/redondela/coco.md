@@ -1,5 +1,5 @@
 ---
 title: "Cocó"
 url: /redondela/coco/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marisé Floristas"
 url: /o-porrino/marise-floristas/
-shop: floristería
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xirico"
 url: /ferrol/xirico/
-shop: herbolario
+shop: Kräuter
 ---

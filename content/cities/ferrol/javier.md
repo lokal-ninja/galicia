@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /ferrol/javier/
-shop: carnicero
+shop: Metzgerei
 ---

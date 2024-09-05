@@ -1,5 +1,5 @@
 ---
 title: "Lavado e Engraxe Alvite"
 url: /a-ponte-do-porto/lavado-e-engraxe-alvite/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurolíder"
 url: /mugardos/eurolider/
-shop: supermercado
+shop: Supermarkt
 ---

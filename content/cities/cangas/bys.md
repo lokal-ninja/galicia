@@ -1,5 +1,5 @@
 ---
 title: "BYS"
 url: /cangas/bys/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /rianxo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

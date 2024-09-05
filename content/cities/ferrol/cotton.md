@@ -1,5 +1,5 @@
 ---
 title: "Cotton"
 url: /ferrol/cotton/
-shop: ropa
+shop: Kleidung
 ---

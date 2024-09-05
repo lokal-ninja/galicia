@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /ferrol/jysk/
-shop: muebles
+shop: Möbel
 ---

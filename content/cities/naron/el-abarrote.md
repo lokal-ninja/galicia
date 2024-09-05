@@ -1,5 +1,5 @@
 ---
 title: "El Abarrote"
 url: /naron/el-abarrote/
-shop: comodidad
+shop: Lebensmittel
 ---

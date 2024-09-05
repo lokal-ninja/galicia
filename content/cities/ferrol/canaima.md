@@ -1,5 +1,5 @@
 ---
 title: "Canaima"
 url: /ferrol/canaima/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Mallón"
 url: /coristanco/ferreteria-mallon/
-shop: hardware
+shop: Eisenwaren
 ---

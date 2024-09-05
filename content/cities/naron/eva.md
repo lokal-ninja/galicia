@@ -1,5 +1,5 @@
 ---
 title: "Eva"
 url: /naron/eva/
-shop: herbolario
+shop: Kräuter
 ---

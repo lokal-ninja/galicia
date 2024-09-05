@@ -1,5 +1,5 @@
 ---
 title: "GaliBici"
 url: /vigo/galibici/
-shop: bicicleta
+shop: Fahrrad
 ---

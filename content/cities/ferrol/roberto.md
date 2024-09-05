@@ -1,5 +1,5 @@
 ---
 title: "Roberto"
 url: /ferrol/roberto/
-shop: ropa
+shop: Kleidung
 ---

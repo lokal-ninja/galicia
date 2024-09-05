@@ -1,5 +1,5 @@
 ---
 title: "Panificadora Artepan"
 url: /a-feira-do-monte/panificadora-artepan/
-shop: panadería
+shop: Bäckerei
 ---

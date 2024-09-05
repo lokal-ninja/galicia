@@ -1,5 +1,5 @@
 ---
 title: "SML"
 url: /redondela/sml/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /lugo/decathlon/
-shop: deportes
+shop: Sport
 ---

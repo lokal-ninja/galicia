@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /o-rosal/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

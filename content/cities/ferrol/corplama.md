@@ -1,5 +1,5 @@
 ---
 title: "Corplama"
 url: /ferrol/corplama/
-shop: hardware
+shop: Eisenwaren
 ---

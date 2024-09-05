@@ -1,5 +1,5 @@
 ---
 title: "Centro Óptico Narón"
 url: /naron/centro-optico-naron/
-shop: óptico
+shop: Optiker
 ---

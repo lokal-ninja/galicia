@@ -1,5 +1,5 @@
 ---
 title: "Pandemonium"
 url: /vigo/pandemonium/
-shop: panadería
+shop: Bäckerei
 ---

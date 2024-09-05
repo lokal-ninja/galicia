@@ -1,5 +1,5 @@
 ---
 title: "Versus"
 url: /vigo/versus/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmypel"
 url: /vigo/cosmypel/
-shop: decoración interior
+shop: Raumausstattung
 ---

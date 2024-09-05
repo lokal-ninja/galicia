@@ -1,5 +1,5 @@
 ---
 title: "Optica Pereira"
 url: /redondela/optica-pereira/
-shop: óptico
+shop: Optiker
 ---

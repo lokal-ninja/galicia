@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /pontevedra/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

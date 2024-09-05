@@ -1,5 +1,5 @@
 ---
 title: "Jofil"
 url: /ferrol/jofil/
-shop: cámara
+shop: Kamera
 ---

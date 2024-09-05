@@ -1,5 +1,5 @@
 ---
 title: "Milar Olivica"
 url: /vigo/milar-olivica/
-shop: electrónica
+shop: Elektronik
 ---

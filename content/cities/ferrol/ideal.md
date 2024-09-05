@@ -1,5 +1,5 @@
 ---
 title: "Ideal"
 url: /ferrol/ideal/
-shop: lavandería
+shop: Wäscherei
 ---

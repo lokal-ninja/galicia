@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /a-coruna/ikea/
-shop: muebles
+shop: Möbel
 ---

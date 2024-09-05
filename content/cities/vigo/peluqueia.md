@@ -1,5 +1,5 @@
 ---
 title: "Peluqueía"
 url: /vigo/peluqueia/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LolaMoto"
 url: /vigo/lolamoto/
-shop: motocicleta
+shop: Motorrad
 ---

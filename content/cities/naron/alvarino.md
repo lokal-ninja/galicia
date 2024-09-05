@@ -1,5 +1,5 @@
 ---
 title: "Alvariño"
 url: /naron/alvarino/
-shop: frutería
+shop: Gemüse & Obst
 ---

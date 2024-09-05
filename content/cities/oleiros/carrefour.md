@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /oleiros/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

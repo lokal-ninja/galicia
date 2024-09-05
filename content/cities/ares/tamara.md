@@ -1,5 +1,5 @@
 ---
 title: "Tamara"
 url: /ares/tamara/
-shop: peluquería
+shop: Friseur
 ---

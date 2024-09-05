@@ -1,5 +1,5 @@
 ---
 title: "Frupan"
 url: /ferrol/frupan/
-shop: frutería
+shop: Gemüse & Obst
 ---

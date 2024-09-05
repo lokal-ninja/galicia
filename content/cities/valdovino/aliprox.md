@@ -1,5 +1,5 @@
 ---
 title: "Aliprox"
 url: /valdovino/aliprox/
-shop: supermercado
+shop: Supermarkt
 ---

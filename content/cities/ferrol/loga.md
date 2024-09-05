@@ -1,5 +1,5 @@
 ---
 title: "Loga"
 url: /ferrol/loga/
-shop: peluquería
+shop: Friseur
 ---

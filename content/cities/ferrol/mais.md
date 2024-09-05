@@ -1,5 +1,5 @@
 ---
 title: "Mais"
 url: /ferrol/mais/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

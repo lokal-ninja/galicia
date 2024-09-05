@@ -1,5 +1,5 @@
 ---
 title: "Alba"
 url: /ferrol/alba/
-shop: floristería
+shop: Blumen
 ---

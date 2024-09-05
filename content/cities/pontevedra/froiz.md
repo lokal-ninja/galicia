@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /pontevedra/froiz/
-shop: supermercado
+shop: Supermarkt
 ---

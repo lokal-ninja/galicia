@@ -1,5 +1,5 @@
 ---
 title: "A Esmorga"
 url: /cangas/a-esmorga/
-shop: libros
+shop: Bücher
 ---

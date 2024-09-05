@@ -1,5 +1,5 @@
 ---
 title: "Rewachi"
 url: /cangas/rewachi/
-shop: mascotas
+shop: Tiere
 ---

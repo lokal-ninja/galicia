@@ -1,5 +1,5 @@
 ---
 title: "DUVA - Zapataría e Cerraxería"
 url: /carral/duva-zapataria-e-cerraxeria/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arañeira. Solucións Informáticas"
 url: /padron/araneira-solucions-informaticas/
-shop: ordenador
+shop: Computer
 ---

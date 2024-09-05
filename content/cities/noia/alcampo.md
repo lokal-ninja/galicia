@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /noia/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

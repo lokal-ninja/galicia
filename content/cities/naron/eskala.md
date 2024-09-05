@@ -1,5 +1,5 @@
 ---
 title: "Eskala"
 url: /naron/eskala/
-shop: ropa
+shop: Kleidung
 ---

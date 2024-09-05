@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia LaColada"
 url: /sada/lavanderia-lacolada/
-shop: lavandería
+shop: Wäscherei
 ---

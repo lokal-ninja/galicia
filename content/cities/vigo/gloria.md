@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /vigo/gloria/
-shop: comodidad
+shop: Lebensmittel
 ---

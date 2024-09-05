@@ -1,5 +1,5 @@
 ---
 title: "Gomistar"
 url: /redondela/gomistar/
-shop: confitería
+shop: Süßwaren
 ---

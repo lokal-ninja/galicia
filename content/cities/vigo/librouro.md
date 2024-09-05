@@ -1,5 +1,5 @@
 ---
 title: "Librouro"
 url: /vigo/librouro/
-shop: libros
+shop: Bücher
 ---

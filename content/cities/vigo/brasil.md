@@ -1,5 +1,5 @@
 ---
 title: "Brasil"
 url: /vigo/brasil/
-shop: panadería
+shop: Bäckerei
 ---

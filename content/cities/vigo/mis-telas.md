@@ -1,5 +1,5 @@
 ---
 title: "Mis Telas"
 url: /vigo/mis-telas/
-shop: decoración interior
+shop: Raumausstattung
 ---

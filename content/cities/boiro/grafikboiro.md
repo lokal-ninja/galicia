@@ -1,5 +1,5 @@
 ---
 title: "GrafiKboiro"
 url: /boiro/grafikboiro/
-shop: copyshop
+shop: Kopieren
 ---

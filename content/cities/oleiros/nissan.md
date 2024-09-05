@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /oleiros/nissan/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stollen"
 url: /ferrol/stollen/
-shop: pastelería
+shop: Konditorei
 ---

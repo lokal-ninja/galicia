@@ -1,5 +1,5 @@
 ---
 title: "Arema"
 url: /vigo/arema/
-shop: panadería
+shop: Bäckerei
 ---

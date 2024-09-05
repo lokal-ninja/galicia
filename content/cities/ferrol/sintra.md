@@ -1,5 +1,5 @@
 ---
 title: "Sintra"
 url: /ferrol/sintra/
-shop: ropa
+shop: Kleidung
 ---

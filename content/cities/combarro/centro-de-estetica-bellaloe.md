@@ -1,5 +1,5 @@
 ---
 title: "Centro de estética Bellaloe"
 url: /combarro/centro-de-estetica-bellaloe/
-shop: cosméticos
+shop: Kosmetik
 ---

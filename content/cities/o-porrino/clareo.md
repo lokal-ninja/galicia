@@ -1,5 +1,5 @@
 ---
 title: "Clareo"
 url: /o-porrino/clareo/
-shop: lavandería
+shop: Wäscherei
 ---

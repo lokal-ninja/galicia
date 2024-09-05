@@ -1,5 +1,5 @@
 ---
 title: "Euronics Gran Vía"
 url: /negreira/euronics-gran-via/
-shop: electrónica
+shop: Elektronik
 ---

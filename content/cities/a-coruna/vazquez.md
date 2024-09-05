@@ -1,5 +1,5 @@
 ---
 title: "Vázquez"
 url: /a-coruna/vazquez/
-shop: panadería
+shop: Bäckerei
 ---

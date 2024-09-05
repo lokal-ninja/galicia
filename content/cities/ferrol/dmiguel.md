@@ -1,5 +1,5 @@
 ---
 title: "D'Miguel"
 url: /ferrol/dmiguel/
-shop: ropa
+shop: Kleidung
 ---

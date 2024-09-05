@@ -1,5 +1,5 @@
 ---
 title: "Marlu"
 url: /boiro/marlu/
-shop: zapatos
+shop: Schuhe
 ---

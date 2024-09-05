@@ -1,5 +1,5 @@
 ---
 title: "Pétalos"
 url: /ferrol/petalos/
-shop: floristería
+shop: Blumen
 ---

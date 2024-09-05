@@ -1,5 +1,5 @@
 ---
 title: "Perruquería Azul"
 url: /abegondo/perruqueria-azul/
-shop: peluquería
+shop: Friseur
 ---

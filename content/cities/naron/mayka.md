@@ -1,5 +1,5 @@
 ---
 title: "Mayka"
 url: /naron/mayka/
-shop: zapatos
+shop: Schuhe
 ---

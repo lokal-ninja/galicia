@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Katuxa Norte S.L"
 url: /vigo/alimentacion-katuxa-norte-s-l/
-shop: frutería
+shop: Gemüse & Obst
 ---

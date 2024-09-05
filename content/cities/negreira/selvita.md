@@ -1,5 +1,5 @@
 ---
 title: "Selvita"
 url: /negreira/selvita/
-shop: peluquería
+shop: Friseur
 ---

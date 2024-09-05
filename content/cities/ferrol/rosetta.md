@@ -1,5 +1,5 @@
 ---
 title: "Rosetta"
 url: /ferrol/rosetta/
-shop: antigüedades
+shop: Antiquitäten
 ---
