@@ -1,5 +1,5 @@
 ---
 title: "Pompas Fúnebres de Carnota"
 url: /carnota/pompas-funebres-de-carnota/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viaxes Galitur"
 url: /ferrol/viaxes-galitur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

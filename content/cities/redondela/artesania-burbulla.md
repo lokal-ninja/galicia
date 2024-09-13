@@ -1,5 +1,5 @@
 ---
 title: "Artesanía Burbulla"
 url: /redondela/artesania-burbulla/
-shop: Andenken
+shop: regalo
 ---

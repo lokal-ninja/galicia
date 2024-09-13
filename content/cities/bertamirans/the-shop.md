@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /bertamirans/the-shop/
-shop: Raumausstattung
+shop: decoración interior
 ---

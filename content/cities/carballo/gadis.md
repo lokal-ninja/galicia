@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /carballo/gadis/
-shop: Supermarkt
+shop: supermercado
 ---

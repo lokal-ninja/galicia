@@ -1,5 +1,5 @@
 ---
 title: "Talleres Louzan"
 url: /naron/talleres-louzan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

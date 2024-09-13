@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /mino/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

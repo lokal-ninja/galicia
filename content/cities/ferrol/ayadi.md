@@ -1,5 +1,5 @@
 ---
 title: "Ayadi"
 url: /ferrol/ayadi/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Chema"
 url: /carral/neumaticos-chema/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olimpio"
 url: /negreira/olimpio/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmethics"
 url: /ourense/cosmethics/
-shop: Kosmetik
+shop: cosméticos
 ---

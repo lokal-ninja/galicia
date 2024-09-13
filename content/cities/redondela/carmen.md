@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /redondela/carmen/
-shop: Friseur
+shop: peluquería
 ---

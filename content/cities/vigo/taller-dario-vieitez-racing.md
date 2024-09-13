@@ -1,5 +1,5 @@
 ---
 title: "Taller Dario Vieitez Racing"
 url: /vigo/taller-dario-vieitez-racing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

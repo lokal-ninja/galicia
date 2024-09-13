@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Municipal de Bueu"
 url: /bueu/tanatorio-municipal-de-bueu/
-shop: Bestattungen
+shop: directores de funerarias
 ---

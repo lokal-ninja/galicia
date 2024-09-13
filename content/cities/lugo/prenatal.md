@@ -1,5 +1,5 @@
 ---
 title: "Prenatal"
 url: /lugo/prenatal/
-shop: Babysachen
+shop: artículos para bebés
 ---

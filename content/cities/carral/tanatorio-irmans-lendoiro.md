@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Irmáns Lendoiro"
 url: /carral/tanatorio-irmans-lendoiro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

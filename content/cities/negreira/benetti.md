@@ -1,5 +1,5 @@
 ---
 title: "Benetti"
 url: /negreira/benetti/
-shop: Kleidung
+shop: ropa
 ---

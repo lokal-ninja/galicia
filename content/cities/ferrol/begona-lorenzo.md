@@ -1,5 +1,5 @@
 ---
 title: "Begoña Lorenzo"
 url: /ferrol/begona-lorenzo/
-shop: Optiker
+shop: óptico
 ---

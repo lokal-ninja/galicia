@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /redondela/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

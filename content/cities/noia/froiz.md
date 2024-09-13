@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /noia/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Essencia Shop"
 url: /ferrol/essencia-shop/
-shop: Kleidung
+shop: ropa
 ---

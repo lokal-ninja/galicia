@@ -1,5 +1,5 @@
 ---
 title: "Azul cebra"
 url: /cangas/azul-cebra/
-shop: Allgemein
+shop: general
 ---

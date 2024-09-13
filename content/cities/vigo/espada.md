@@ -1,5 +1,5 @@
 ---
 title: "Espada"
 url: /vigo/espada/
-shop: Badezimmer
+shop: cuarto de baño
 ---

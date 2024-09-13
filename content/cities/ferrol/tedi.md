@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /ferrol/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria A Cruz"
 url: /o-barco-de-valdeorras/funeraria-a-cruz/
-shop: Bestattungen
+shop: directores de funerarias
 ---

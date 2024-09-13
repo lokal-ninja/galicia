@@ -1,5 +1,5 @@
 ---
 title: "TRM Talleres"
 url: /culleredo/trm-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

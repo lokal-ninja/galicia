@@ -1,5 +1,5 @@
 ---
 title: "Kokoa"
 url: /naron/kokoa/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /a-guarda/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

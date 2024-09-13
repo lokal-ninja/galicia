@@ -1,5 +1,5 @@
 ---
 title: "Franxa"
 url: /ferrol/franxa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

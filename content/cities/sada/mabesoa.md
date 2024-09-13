@@ -1,5 +1,5 @@
 ---
 title: "Mabesoa"
 url: /sada/mabesoa/
-shop: Autohaus
+shop: coche
 ---

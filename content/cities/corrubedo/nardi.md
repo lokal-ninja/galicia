@@ -1,5 +1,5 @@
 ---
 title: "Nardi"
 url: /corrubedo/nardi/
-shop: Supermarkt
+shop: supermercado
 ---

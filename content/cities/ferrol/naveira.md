@@ -1,5 +1,5 @@
 ---
 title: "Naveira"
 url: /ferrol/naveira/
-shop: Bücher
+shop: libros
 ---

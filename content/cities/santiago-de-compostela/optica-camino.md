@@ -1,5 +1,5 @@
 ---
 title: "Óptica Camiño"
 url: /santiago-de-compostela/optica-camino/
-shop: Optiker
+shop: óptico
 ---

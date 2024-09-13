@@ -1,5 +1,5 @@
 ---
 title: "ISTEGA"
 url: /cambre/istega/
-shop: Allgemein
+shop: general
 ---

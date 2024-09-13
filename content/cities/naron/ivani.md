@@ -1,5 +1,5 @@
 ---
 title: "Ivani"
 url: /naron/ivani/
-shop: Schuhe
+shop: zapatos
 ---

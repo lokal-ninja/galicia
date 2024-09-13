@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Apostol"
 url: /sada/tanatorio-apostol/
-shop: Bestattungen
+shop: directores de funerarias
 ---

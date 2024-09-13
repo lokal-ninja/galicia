@@ -1,5 +1,5 @@
 ---
 title: "SEAT"
 url: /a-coruna/seat/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

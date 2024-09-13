@@ -1,5 +1,5 @@
 ---
 title: "Regal'art"
 url: /vigo/regalart/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interfilm"
 url: /naron/interfilm/
-shop: Foto
+shop: foto
 ---

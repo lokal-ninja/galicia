@@ -1,5 +1,5 @@
 ---
 title: "Pardal"
 url: /santiago-de-compostela/pardal/
-shop: Farben
+shop: pintura
 ---

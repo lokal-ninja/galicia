@@ -1,5 +1,5 @@
 ---
 title: "Panadería Caión"
 url: /a-ponte-do-porto/panaderia-caion/
-shop: Bäckerei
+shop: panadería
 ---

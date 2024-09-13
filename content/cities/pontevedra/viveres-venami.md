@@ -1,5 +1,5 @@
 ---
 title: "Víveres Venami"
 url: /pontevedra/viveres-venami/
-shop: Supermarkt
+shop: supermercado
 ---

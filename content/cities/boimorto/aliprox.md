@@ -1,5 +1,5 @@
 ---
 title: "Aliprox"
 url: /boimorto/aliprox/
-shop: Supermarkt
+shop: supermercado
 ---

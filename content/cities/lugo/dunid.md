@@ -1,5 +1,5 @@
 ---
 title: "Dunid"
 url: /lugo/dunid/
-shop: Computer
+shop: ordenador
 ---

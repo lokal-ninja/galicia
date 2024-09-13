@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /vigo/trek/
-shop: Fahrrad
+shop: bicicleta
 ---

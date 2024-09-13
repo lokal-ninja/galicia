@@ -1,5 +1,5 @@
 ---
 title: "SUSUELA"
 url: /redondela/susuela/
-shop: Schuhe
+shop: zapatos
 ---

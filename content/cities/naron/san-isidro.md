@@ -1,5 +1,5 @@
 ---
 title: "San Isidro"
 url: /naron/san-isidro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

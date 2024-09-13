@@ -1,5 +1,5 @@
 ---
 title: "Las Rías"
 url: /a-feira-do-monte/las-rias/
-shop: Eisenwaren
+shop: hardware
 ---

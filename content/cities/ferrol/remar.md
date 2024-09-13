@@ -1,5 +1,5 @@
 ---
 title: "Remar"
 url: /ferrol/remar/
-shop: Möbel
+shop: muebles
 ---

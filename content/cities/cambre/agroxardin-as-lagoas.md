@@ -1,5 +1,5 @@
 ---
 title: "Agroxardín As Lagoas"
 url: /cambre/agroxardin-as-lagoas/
-shop: Garten-Center
+shop: centro de jardinería
 ---

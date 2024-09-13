@@ -1,5 +1,5 @@
 ---
 title: "Vilarsa"
 url: /ferrol/vilarsa/
-shop: Möbel
+shop: muebles
 ---

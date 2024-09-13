@@ -1,5 +1,5 @@
 ---
 title: "Multimat"
 url: /naron/multimat/
-shop: Badezimmer
+shop: cuarto de baño
 ---

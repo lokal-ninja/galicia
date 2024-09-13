@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /mugardos/arcoiris/
-shop: Blumen
+shop: floristería
 ---

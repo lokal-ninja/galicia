@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /ferrol/iris/
-shop: Kräuter
+shop: herbolario
 ---

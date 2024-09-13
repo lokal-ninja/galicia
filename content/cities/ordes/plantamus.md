@@ -1,5 +1,5 @@
 ---
 title: "plantamus"
 url: /ordes/plantamus/
-shop: Garten-Center
+shop: centro de jardinería
 ---

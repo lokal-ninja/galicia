@@ -1,5 +1,5 @@
 ---
 title: "Carrie"
 url: /vigo/carrie/
-shop: Kleidung
+shop: ropa
 ---

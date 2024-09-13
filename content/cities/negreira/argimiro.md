@@ -1,5 +1,5 @@
 ---
 title: "Argimiro"
 url: /negreira/argimiro/
-shop: Friseur
+shop: peluquería
 ---

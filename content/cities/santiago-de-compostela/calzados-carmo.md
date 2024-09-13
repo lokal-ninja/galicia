@@ -1,5 +1,5 @@
 ---
 title: "Calzados Carmo"
 url: /santiago-de-compostela/calzados-carmo/
-shop: Schuhe
+shop: zapatos
 ---

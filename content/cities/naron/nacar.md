@@ -1,5 +1,5 @@
 ---
 title: "Nácar"
 url: /naron/nacar/
-shop: Andenken
+shop: regalo
 ---

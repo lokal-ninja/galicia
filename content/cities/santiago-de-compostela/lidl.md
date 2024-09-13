@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /santiago-de-compostela/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

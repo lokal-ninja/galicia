@@ -1,5 +1,5 @@
 ---
 title: "Mima-T"
 url: /ferrol/mima-t/
-shop: Kosmetik
+shop: cosméticos
 ---

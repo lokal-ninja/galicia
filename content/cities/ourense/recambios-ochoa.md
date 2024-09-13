@@ -1,5 +1,5 @@
 ---
 title: "Recambios Ochoa"
 url: /ourense/recambios-ochoa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

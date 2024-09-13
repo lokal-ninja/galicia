@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /cangas/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

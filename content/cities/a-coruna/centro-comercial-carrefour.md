@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Carrefour"
 url: /a-coruna/centro-comercial-carrefour/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

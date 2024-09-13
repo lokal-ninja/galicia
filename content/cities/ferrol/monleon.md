@@ -1,5 +1,5 @@
 ---
 title: "Monleón"
 url: /ferrol/monleon/
-shop: Möbel
+shop: muebles
 ---

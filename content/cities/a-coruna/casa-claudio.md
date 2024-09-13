@@ -1,5 +1,5 @@
 ---
 title: "Casa Claudio"
 url: /a-coruna/casa-claudio/
-shop: Feinkost
+shop: charcutería
 ---

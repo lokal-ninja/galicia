@@ -1,5 +1,5 @@
 ---
 title: "Regaifa"
 url: /ares/regaifa/
-shop: Bäckerei
+shop: panadería
 ---

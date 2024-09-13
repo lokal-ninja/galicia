@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /redondela/familia/
-shop: Supermarkt
+shop: supermercado
 ---

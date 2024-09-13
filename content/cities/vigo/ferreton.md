@@ -1,5 +1,5 @@
 ---
 title: "Ferretón"
 url: /vigo/ferreton/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

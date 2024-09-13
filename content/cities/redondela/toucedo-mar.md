@@ -1,5 +1,5 @@
 ---
 title: "Toucedo Mar"
 url: /redondela/toucedo-mar/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

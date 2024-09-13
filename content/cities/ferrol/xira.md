@@ -1,5 +1,5 @@
 ---
 title: "Xira"
 url: /ferrol/xira/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /a-coruna/zara-rua-juan-florez/
-shop: Kleidung
+shop: ropa
 ---

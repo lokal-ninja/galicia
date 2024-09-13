@@ -1,5 +1,5 @@
 ---
 title: "Romeu"
 url: /naron/romeu/
-shop: Nähzubehör
+shop: coser
 ---

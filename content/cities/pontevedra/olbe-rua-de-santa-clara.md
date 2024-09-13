@@ -1,5 +1,5 @@
 ---
 title: "Olbe"
 url: /pontevedra/olbe-rua-de-santa-clara/
-shop: Teppiche
+shop: alfombra
 ---

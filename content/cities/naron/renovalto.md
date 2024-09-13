@@ -1,5 +1,5 @@
 ---
 title: "Renovalto"
 url: /naron/renovalto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

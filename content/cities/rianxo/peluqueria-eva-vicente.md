@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Eva Vicente"
 url: /rianxo/peluqueria-eva-vicente/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería Chavián"
 url: /bertamirans/papeleria-chavian/
-shop: Schreibwaren
+shop: material de oficina
 ---

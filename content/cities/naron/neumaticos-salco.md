@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Salco"
 url: /naron/neumaticos-salco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cantón 4"
 url: /ferrol/canton-4/
-shop: Bücher
+shop: libros
 ---

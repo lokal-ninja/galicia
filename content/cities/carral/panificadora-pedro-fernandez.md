@@ -1,5 +1,5 @@
 ---
 title: "Panificadora Pedro Fernández"
 url: /carral/panificadora-pedro-fernandez/
-shop: Bäckerei
+shop: panadería
 ---

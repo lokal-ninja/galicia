@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /neda/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Vicente"
 url: /ferrol/carniceria-vicente/
-shop: Metzgerei
+shop: carnicero
 ---

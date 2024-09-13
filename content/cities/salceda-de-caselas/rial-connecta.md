@@ -1,5 +1,5 @@
 ---
 title: "Rial - Connecta"
 url: /salceda-de-caselas/rial-connecta/
-shop: Elektronik
+shop: electrónica
 ---

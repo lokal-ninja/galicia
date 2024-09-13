@@ -1,5 +1,5 @@
 ---
 title: "Talleres Santiago"
 url: /brion/talleres-santiago/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

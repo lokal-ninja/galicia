@@ -1,5 +1,5 @@
 ---
 title: "Estanco de Belén"
 url: /redondela/estanco-de-belen/
-shop: Tabak
+shop: tabaco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Folder"
 url: /ferrol/folder/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corplama"
 url: /ferrol/corplama-estrada-de-castela/
-shop: Badezimmer
+shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Velvet"
 url: /naron/velvet/
-shop: Raumausstattung
+shop: decoración interior
 ---

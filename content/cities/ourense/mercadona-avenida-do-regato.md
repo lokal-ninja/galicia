@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ourense/mercadona-avenida-do-regato/
-shop: Supermarkt
+shop: supermercado
 ---

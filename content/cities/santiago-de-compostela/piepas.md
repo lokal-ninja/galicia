@@ -1,5 +1,5 @@
 ---
 title: "Piepas"
 url: /santiago-de-compostela/piepas/
-shop: Schuhe
+shop: zapatos
 ---

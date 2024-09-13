@@ -1,5 +1,5 @@
 ---
 title: "A Bouza"
 url: /vigo/a-bouza/
-shop: Massage
+shop: quiosco
 ---

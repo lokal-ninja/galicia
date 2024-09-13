@@ -1,5 +1,5 @@
 ---
 title: "Gascón"
 url: /ferrol/gascon-estrada-de-castela/
-shop: Konditorei
+shop: pastelería
 ---

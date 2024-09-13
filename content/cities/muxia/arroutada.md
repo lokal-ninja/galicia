@@ -1,5 +1,5 @@
 ---
 title: "Arroutada"
 url: /muxia/arroutada/
-shop: Kramladen
+shop: tienda de variedades
 ---

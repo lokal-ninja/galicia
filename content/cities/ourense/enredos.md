@@ -1,5 +1,5 @@
 ---
 title: "Enredos"
 url: /ourense/enredos/
-shop: Bäckerei
+shop: panadería
 ---

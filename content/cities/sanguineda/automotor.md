@@ -1,5 +1,5 @@
 ---
 title: "AutoMotor"
 url: /sanguineda/automotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

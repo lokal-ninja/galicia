@@ -1,5 +1,5 @@
 ---
 title: "The Shoodie Store"
 url: /pontevedra/the-shoodie-store/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /pontevedra/druni/
-shop: Parfümerie
+shop: perfumería
 ---

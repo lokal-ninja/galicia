@@ -1,5 +1,5 @@
 ---
 title: "Radiocar"
 url: /ferrol/radiocar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

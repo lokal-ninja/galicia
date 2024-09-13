@@ -1,5 +1,5 @@
 ---
 title: "Avilés"
 url: /cangas/aviles/
-shop: Friseur
+shop: peluquería
 ---

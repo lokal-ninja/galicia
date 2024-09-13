@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Vidal"
 url: /redondela/ferreteria-vidal/
-shop: Eisenwaren
+shop: hardware
 ---

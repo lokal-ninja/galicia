@@ -1,5 +1,5 @@
 ---
 title: "ATV Motor"
 url: /santiago-de-compostela/atv-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

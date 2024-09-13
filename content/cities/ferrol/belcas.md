@@ -1,5 +1,5 @@
 ---
 title: "BelCas"
 url: /ferrol/belcas/
-shop: Friseur
+shop: peluquería
 ---

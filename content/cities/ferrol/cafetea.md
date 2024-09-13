@@ -1,5 +1,5 @@
 ---
 title: "Cafetea"
 url: /ferrol/cafetea/
-shop: Kaffee
+shop: café
 ---

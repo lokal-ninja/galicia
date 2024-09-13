@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Lin"
 url: /santiago-de-compostela/supermercado-lin/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oysho"
 url: /pontevedra/oysho/
-shop: Kleidung
+shop: ropa
 ---

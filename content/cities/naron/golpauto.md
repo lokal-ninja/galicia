@@ -1,5 +1,5 @@
 ---
 title: "Golpauto"
 url: /naron/golpauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

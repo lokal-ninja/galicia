@@ -1,5 +1,5 @@
 ---
 title: "Aliprox"
 url: /rianxo/aliprox/
-shop: Supermarkt
+shop: supermercado
 ---

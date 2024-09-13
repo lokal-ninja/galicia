@@ -1,5 +1,5 @@
 ---
 title: "BricoKit A Xesta"
 url: /lugo/bricokit-a-xesta/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

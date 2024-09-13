@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Tato"
 url: /silleda/neumaticos-tato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

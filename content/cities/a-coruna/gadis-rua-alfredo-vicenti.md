@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /a-coruna/gadis-rua-alfredo-vicenti/
-shop: Supermarkt
+shop: supermercado
 ---

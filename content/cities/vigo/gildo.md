@@ -1,5 +1,5 @@
 ---
 title: "Gildo"
 url: /vigo/gildo/
-shop: Friseur
+shop: peluquería
 ---

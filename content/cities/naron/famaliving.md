@@ -1,5 +1,5 @@
 ---
 title: "Famaliving"
 url: /naron/famaliving/
-shop: Möbel
+shop: muebles
 ---

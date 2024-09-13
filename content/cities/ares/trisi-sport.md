@@ -1,5 +1,5 @@
 ---
 title: "Trisi Sport"
 url: /ares/trisi-sport/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cymauto"
 url: /vigo/cymauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

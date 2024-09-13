@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /arteixo/dia/
-shop: Supermarkt
+shop: supermercado
 ---

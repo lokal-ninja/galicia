@@ -1,5 +1,5 @@
 ---
 title: "Los Pelamios"
 url: /santiago-de-compostela/los-pelamios/
-shop: Lebensmittel
+shop: comodidad
 ---

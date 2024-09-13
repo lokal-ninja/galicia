@@ -1,5 +1,5 @@
 ---
 title: "Pneumáticos Redondela"
 url: /redondela/pneumaticos-redondela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

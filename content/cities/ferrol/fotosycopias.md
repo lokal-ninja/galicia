@@ -1,5 +1,5 @@
 ---
 title: "Fotosycopias"
 url: /ferrol/fotosycopias/
-shop: Kopieren
+shop: copyshop
 ---

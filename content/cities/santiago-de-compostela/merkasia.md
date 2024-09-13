@@ -1,5 +1,5 @@
 ---
 title: "MerkAsia"
 url: /santiago-de-compostela/merkasia/
-shop: Kramladen
+shop: tienda de variedades
 ---

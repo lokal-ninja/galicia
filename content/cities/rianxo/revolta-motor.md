@@ -1,5 +1,5 @@
 ---
 title: "Revolta Motor"
 url: /rianxo/revolta-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

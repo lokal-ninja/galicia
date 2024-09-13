@@ -1,5 +1,5 @@
 ---
 title: "Bruno"
 url: /naron/bruno/
-shop: Fisch
+shop: marisco
 ---

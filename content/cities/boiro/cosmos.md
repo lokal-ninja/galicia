@@ -1,5 +1,5 @@
 ---
 title: "Cosmos"
 url: /boiro/cosmos/
-shop: Kramladen
+shop: tienda de variedades
 ---

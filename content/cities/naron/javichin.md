@@ -1,5 +1,5 @@
 ---
 title: "Javichín"
 url: /naron/javichin/
-shop: Piercing
+shop: perforación
 ---

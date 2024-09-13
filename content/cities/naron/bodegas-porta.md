@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Porta"
 url: /naron/bodegas-porta/
-shop: Wein
+shop: vino
 ---

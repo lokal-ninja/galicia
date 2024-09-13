@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /neda/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

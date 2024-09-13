@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /a-coruna/gadis-rua-menendez-y-pelayo/
-shop: Supermarkt
+shop: supermercado
 ---

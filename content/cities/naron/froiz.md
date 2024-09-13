@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /naron/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

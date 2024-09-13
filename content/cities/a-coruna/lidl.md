@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /a-coruna/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

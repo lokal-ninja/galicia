@@ -1,5 +1,5 @@
 ---
 title: "Viláfer"
 url: /cangas/vilafer/
-shop: Bücher
+shop: libros
 ---

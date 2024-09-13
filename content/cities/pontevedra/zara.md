@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /pontevedra/zara/
-shop: Kleidung
+shop: ropa
 ---

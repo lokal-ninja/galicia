@@ -1,5 +1,5 @@
 ---
 title: "Centro Piel"
 url: /ferrol/centro-piel/
-shop: Schuhe
+shop: zapatos
 ---

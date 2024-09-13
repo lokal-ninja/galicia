@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /arteixo/gadis/
-shop: Supermarkt
+shop: supermercado
 ---

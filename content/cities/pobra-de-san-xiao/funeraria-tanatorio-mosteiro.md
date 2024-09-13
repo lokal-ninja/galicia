@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Tanatorio Mosteiro"
 url: /pobra-de-san-xiao/funeraria-tanatorio-mosteiro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

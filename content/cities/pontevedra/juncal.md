@@ -1,5 +1,5 @@
 ---
 title: "Juncal"
 url: /pontevedra/juncal/
-shop: Süßwaren
+shop: confitería
 ---

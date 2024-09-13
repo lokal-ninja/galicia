@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /pontevedra/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

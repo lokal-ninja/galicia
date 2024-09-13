@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio de Cangas"
 url: /cangas/tanatorio-de-cangas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

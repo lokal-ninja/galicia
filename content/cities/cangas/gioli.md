@@ -1,5 +1,5 @@
 ---
 title: "Gioli"
 url: /cangas/gioli/
-shop: Friseur
+shop: peluquería
 ---

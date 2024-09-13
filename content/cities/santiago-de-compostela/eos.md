@@ -1,5 +1,5 @@
 ---
 title: "Eos"
 url: /santiago-de-compostela/eos/
-shop: Friseur
+shop: peluquería
 ---

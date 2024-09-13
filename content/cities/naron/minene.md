@@ -1,5 +1,5 @@
 ---
 title: "MiNené"
 url: /naron/minene/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosa Davalf"
 url: /vigo/rosa-davalf/
-shop: Friseur
+shop: peluquería
 ---

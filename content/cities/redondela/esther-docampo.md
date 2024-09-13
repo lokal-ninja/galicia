@@ -1,5 +1,5 @@
 ---
 title: "Esther Docampo"
 url: /redondela/esther-docampo/
-shop: Schmuck
+shop: joyería
 ---

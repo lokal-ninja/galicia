@@ -1,5 +1,5 @@
 ---
 title: "Joyería Narón"
 url: /naron/joyeria-naron/
-shop: Schmuck
+shop: joyería
 ---

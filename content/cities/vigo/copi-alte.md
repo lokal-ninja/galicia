@@ -1,5 +1,5 @@
 ---
 title: "Copi-alte"
 url: /vigo/copi-alte/
-shop: Schreibwaren
+shop: material de oficina
 ---

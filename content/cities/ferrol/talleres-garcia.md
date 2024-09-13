@@ -1,5 +1,5 @@
 ---
 title: "Talleres García"
 url: /ferrol/talleres-garcia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

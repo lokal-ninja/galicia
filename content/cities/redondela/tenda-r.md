@@ -1,5 +1,5 @@
 ---
 title: "Tenda R"
 url: /redondela/tenda-r/
-shop: Handy
+shop: teléfono móvil
 ---

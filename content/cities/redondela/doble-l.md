@@ -1,5 +1,5 @@
 ---
 title: "Doble L"
 url: /redondela/doble-l/
-shop: Schuhe
+shop: zapatos
 ---

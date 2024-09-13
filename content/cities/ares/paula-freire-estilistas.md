@@ -1,5 +1,5 @@
 ---
 title: "Paula Freire Estilistas"
 url: /ares/paula-freire-estilistas/
-shop: Friseur
+shop: peluquería
 ---

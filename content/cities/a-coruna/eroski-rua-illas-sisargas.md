@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /a-coruna/eroski-rua-illas-sisargas/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "USA Fitness"
 url: /naron/usa-fitness/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auroga"
 url: /ferrol/auroga/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

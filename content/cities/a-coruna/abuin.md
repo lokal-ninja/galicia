@@ -1,5 +1,5 @@
 ---
 title: "Abuin"
 url: /a-coruna/abuin/
-shop: Bäckerei
+shop: panadería
 ---

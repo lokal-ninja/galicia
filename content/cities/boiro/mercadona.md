@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /boiro/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

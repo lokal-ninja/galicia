@@ -1,5 +1,5 @@
 ---
 title: "Cocinas Cocina Reboredo"
 url: /ferrol/cocinas-cocina-reboredo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

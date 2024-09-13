@@ -1,5 +1,5 @@
 ---
 title: "Mobles Franco"
 url: /pobra-de-san-xiao/mobles-franco/
-shop: Möbel
+shop: muebles
 ---

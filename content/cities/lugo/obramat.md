@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /lugo/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AgroFarixa"
 url: /ourense/agrofarixa/
-shop: Allgemein
+shop: general
 ---

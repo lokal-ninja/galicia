@@ -1,5 +1,5 @@
 ---
 title: "La Première"
 url: /ferrol/la-premiere/
-shop: Kleidung
+shop: ropa
 ---

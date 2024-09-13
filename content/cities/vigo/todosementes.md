@@ -1,5 +1,5 @@
 ---
 title: "Todosementes"
 url: /vigo/todosementes/
-shop: Supermarkt
+shop: supermercado
 ---

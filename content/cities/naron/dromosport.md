@@ -1,5 +1,5 @@
 ---
 title: "Dromosport"
 url: /naron/dromosport/
-shop: Fahrrad
+shop: bicicleta
 ---

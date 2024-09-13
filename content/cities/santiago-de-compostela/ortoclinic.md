@@ -1,5 +1,5 @@
 ---
 title: "Ortoclinic"
 url: /santiago-de-compostela/ortoclinic/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

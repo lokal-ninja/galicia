@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /a-coruna/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

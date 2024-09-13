@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /pontevedra/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vioviajes"
 url: /vigo/vioviajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

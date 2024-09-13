@@ -1,5 +1,5 @@
 ---
 title: "Curri"
 url: /carral/curri/
-shop: Süßwaren
+shop: confitería
 ---

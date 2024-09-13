@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /santiago-de-compostela/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

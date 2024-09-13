@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Alcampo"
 url: /a-coruna/centro-comercial-alcampo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

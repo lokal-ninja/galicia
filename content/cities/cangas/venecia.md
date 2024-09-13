@@ -1,5 +1,5 @@
 ---
 title: "Venecia"
 url: /cangas/venecia/
-shop: Konditorei
+shop: pastelería
 ---

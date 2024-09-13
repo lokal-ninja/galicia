@@ -1,5 +1,5 @@
 ---
 title: "Albo"
 url: /viveiro/albo/
-shop: Schuhe
+shop: zapatos
 ---

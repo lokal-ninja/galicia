@@ -1,5 +1,5 @@
 ---
 title: "Portomotor"
 url: /naron/portomotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

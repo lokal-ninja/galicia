@@ -1,5 +1,5 @@
 ---
 title: "Bernardo Nogueira"
 url: /santiago-de-compostela/bernardo-nogueira/
-shop: Friseur
+shop: peluquería
 ---

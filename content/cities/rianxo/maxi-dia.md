@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
 url: /rianxo/maxi-dia/
-shop: Supermarkt
+shop: supermercado
 ---

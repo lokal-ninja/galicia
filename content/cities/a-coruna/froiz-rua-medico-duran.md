@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /a-coruna/froiz-rua-medico-duran/
-shop: Supermarkt
+shop: supermercado
 ---

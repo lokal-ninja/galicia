@@ -1,5 +1,5 @@
 ---
 title: "Zara Home"
 url: /pontevedra/zara-home/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

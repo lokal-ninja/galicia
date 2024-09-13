@@ -1,5 +1,5 @@
 ---
 title: "Rikiisimo"
 url: /ferrol/rikiisimo/
-shop: Kaffee
+shop: café
 ---

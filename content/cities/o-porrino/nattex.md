@@ -1,5 +1,5 @@
 ---
 title: "Nattex"
 url: /o-porrino/nattex/
-shop: Betten
+shop: cama
 ---

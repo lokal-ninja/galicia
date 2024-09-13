@@ -1,5 +1,5 @@
 ---
 title: "Citroen"
 url: /sada/citroen/
-shop: Autohaus
+shop: coche
 ---

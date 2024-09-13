@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Infantil Saldaña"
 url: /vigo/zapateria-infantil-saldana/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sermuga"
 url: /mugardos/sermuga/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barminton"
 url: /ferrol/barminton/
-shop: Kleidung
+shop: ropa
 ---

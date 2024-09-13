@@ -1,5 +1,5 @@
 ---
 title: "Talleres Liáns"
 url: /oleiros/talleres-lians/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

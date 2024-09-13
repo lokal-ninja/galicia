@@ -1,5 +1,5 @@
 ---
 title: "SsangYong"
 url: /naron/ssangyong/
-shop: Autohaus
+shop: coche
 ---

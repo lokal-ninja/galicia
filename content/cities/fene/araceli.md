@@ -1,5 +1,5 @@
 ---
 title: "Araceli"
 url: /fene/araceli/
-shop: Friseur
+shop: peluquería
 ---

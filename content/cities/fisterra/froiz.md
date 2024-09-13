@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /fisterra/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

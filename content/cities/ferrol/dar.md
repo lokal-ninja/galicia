@@ -1,5 +1,5 @@
 ---
 title: "Dar"
 url: /ferrol/dar/
-shop: Schreibwaren
+shop: material de oficina
 ---

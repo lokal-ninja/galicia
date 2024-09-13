@@ -1,5 +1,5 @@
 ---
 title: "Libreria Arousa"
 url: /vilagarcia-de-arousa/libreria-arousa/
-shop: Bücher
+shop: libros
 ---

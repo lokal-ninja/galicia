@@ -1,5 +1,5 @@
 ---
 title: "Azeta"
 url: /a-coruna/azeta/
-shop: Bücher
+shop: libros
 ---

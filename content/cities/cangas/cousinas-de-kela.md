@@ -1,5 +1,5 @@
 ---
 title: "Cousiñas de kela"
 url: /cangas/cousinas-de-kela/
-shop: Kleidung
+shop: ropa
 ---

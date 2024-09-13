@@ -1,5 +1,5 @@
 ---
 title: "Studio"
 url: /vigo/studio/
-shop: Schreibwaren
+shop: material de oficina
 ---

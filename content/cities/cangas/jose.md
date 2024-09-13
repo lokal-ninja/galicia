@@ -1,5 +1,5 @@
 ---
 title: "Jose"
 url: /cangas/jose/
-shop: Metzgerei
+shop: carnicero
 ---

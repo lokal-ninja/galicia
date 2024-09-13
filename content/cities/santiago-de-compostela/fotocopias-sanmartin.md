@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias Sanmartin"
 url: /santiago-de-compostela/fotocopias-sanmartin/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tee-Travel"
 url: /sarria/tee-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /bertamirans/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

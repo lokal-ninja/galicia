@@ -1,5 +1,5 @@
 ---
 title: "Estanco Santa Cruz"
 url: /oleiros/estanco-santa-cruz/
-shop: Tabak
+shop: tabaco
 ---

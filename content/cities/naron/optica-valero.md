@@ -1,5 +1,5 @@
 ---
 title: "Óptica Valero"
 url: /naron/optica-valero/
-shop: Optiker
+shop: óptico
 ---

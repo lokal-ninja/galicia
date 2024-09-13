@@ -1,5 +1,5 @@
 ---
 title: "stylo"
 url: /cangas/stylo/
-shop: Friseur
+shop: peluquería
 ---

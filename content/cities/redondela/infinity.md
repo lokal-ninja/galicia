@@ -1,5 +1,5 @@
 ---
 title: "Infinity"
 url: /redondela/infinity/
-shop: Kleidung
+shop: ropa
 ---

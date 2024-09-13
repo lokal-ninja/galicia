@@ -1,5 +1,5 @@
 ---
 title: "Carola"
 url: /negreira/carola/
-shop: Kleidung
+shop: ropa
 ---

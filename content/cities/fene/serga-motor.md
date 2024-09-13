@@ -1,5 +1,5 @@
 ---
 title: "Serga Motor"
 url: /fene/serga-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

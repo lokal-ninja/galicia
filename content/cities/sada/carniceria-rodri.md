@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Rodri"
 url: /sada/carniceria-rodri/
-shop: Metzgerei
+shop: carnicero
 ---

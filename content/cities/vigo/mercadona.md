@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /vigo/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

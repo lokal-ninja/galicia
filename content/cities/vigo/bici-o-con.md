@@ -1,5 +1,5 @@
 ---
 title: "Bici O Con"
 url: /vigo/bici-o-con/
-shop: Fahrrad
+shop: bicicleta
 ---

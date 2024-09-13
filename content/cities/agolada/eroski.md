@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /agolada/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

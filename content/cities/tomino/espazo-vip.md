@@ -1,5 +1,5 @@
 ---
 title: "Espazo Vip"
 url: /tomino/espazo-vip/
-shop: Friseur
+shop: peluquería
 ---

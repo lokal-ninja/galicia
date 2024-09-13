@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /a-coruna/familia-rua-alcalde-liano-flores/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /oleiros/porsche/
-shop: Autohaus
+shop: coche
 ---

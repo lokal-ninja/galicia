@@ -1,5 +1,5 @@
 ---
 title: "Sofistyc"
 url: /ferrol/sofistyc/
-shop: Friseur
+shop: peluquería
 ---

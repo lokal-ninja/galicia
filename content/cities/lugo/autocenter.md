@@ -1,5 +1,5 @@
 ---
 title: "Autocenter"
 url: /lugo/autocenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

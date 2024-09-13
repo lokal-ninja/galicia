@@ -1,5 +1,5 @@
 ---
 title: "Negreira"
 url: /negreira/negreira/
-shop: Wäscherei
+shop: lavandería
 ---

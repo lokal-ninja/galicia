@@ -1,5 +1,5 @@
 ---
 title: "Bike Works"
 url: /naron/bike-works/
-shop: Fahrrad
+shop: bicicleta
 ---

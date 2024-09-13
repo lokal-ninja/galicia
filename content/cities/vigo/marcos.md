@@ -1,5 +1,5 @@
 ---
 title: "Marcos"
 url: /vigo/marcos/
-shop: Rahmen
+shop: marco
 ---

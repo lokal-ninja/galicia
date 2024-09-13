@@ -1,5 +1,5 @@
 ---
 title: "Autogándara"
 url: /ferrol/autogandara/
-shop: Autohaus
+shop: coche
 ---

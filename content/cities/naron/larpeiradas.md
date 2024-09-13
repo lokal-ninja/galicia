@@ -1,5 +1,5 @@
 ---
 title: "Larpeiradas"
 url: /naron/larpeiradas/
-shop: Bäckerei
+shop: panadería
 ---

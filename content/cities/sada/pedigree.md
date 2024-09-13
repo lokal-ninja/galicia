@@ -1,5 +1,5 @@
 ---
 title: "Pedigree"
 url: /sada/pedigree/
-shop: Tiere
+shop: mascotas
 ---

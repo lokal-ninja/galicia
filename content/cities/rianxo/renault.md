@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /rianxo/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

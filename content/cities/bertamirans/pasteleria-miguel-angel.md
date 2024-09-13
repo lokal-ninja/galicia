@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Miguel Ángel"
 url: /bertamirans/pasteleria-miguel-angel/
-shop: Konditorei
+shop: pastelería
 ---

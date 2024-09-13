@@ -1,5 +1,5 @@
 ---
 title: "Caramés"
 url: /pedrouzos/carames/
-shop: Eisenwaren
+shop: hardware
 ---

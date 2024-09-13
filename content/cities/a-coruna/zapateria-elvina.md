@@ -1,5 +1,5 @@
 ---
 title: "Zapateria Elviña"
 url: /a-coruna/zapateria-elvina/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ubaldina"
 url: /naron/ubaldina/
-shop: Kleidung
+shop: ropa
 ---

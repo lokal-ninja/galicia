@@ -1,5 +1,5 @@
 ---
 title: "Nitro Sport"
 url: /vedra/nitro-sport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

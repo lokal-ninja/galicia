@@ -1,5 +1,5 @@
 ---
 title: "Germán"
 url: /ferrol/german/
-shop: Bäckerei
+shop: panadería
 ---

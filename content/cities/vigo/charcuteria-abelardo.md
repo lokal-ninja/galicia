@@ -1,5 +1,5 @@
 ---
 title: "Charcuteria Abelardo"
 url: /vigo/charcuteria-abelardo/
-shop: Metzgerei
+shop: carnicero
 ---

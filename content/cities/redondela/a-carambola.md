@@ -1,5 +1,5 @@
 ---
 title: "A Carambola"
 url: /redondela/a-carambola/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eminé Optica"
 url: /caldas-de-reis/emine-optica/
-shop: Optiker
+shop: óptico
 ---

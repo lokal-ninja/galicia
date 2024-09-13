@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /ferrol/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

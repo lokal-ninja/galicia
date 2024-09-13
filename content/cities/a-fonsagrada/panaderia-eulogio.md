@@ -1,5 +1,5 @@
 ---
 title: "Panadería Eulogio"
 url: /a-fonsagrada/panaderia-eulogio/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seriland"
 url: /abegondo/seriland/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

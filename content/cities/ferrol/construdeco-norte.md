@@ -1,5 +1,5 @@
 ---
 title: "Construdeco Norte"
 url: /ferrol/construdeco-norte/
-shop: Badezimmer
+shop: cuarto de baño
 ---

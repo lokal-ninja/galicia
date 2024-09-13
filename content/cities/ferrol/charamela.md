@@ -1,5 +1,5 @@
 ---
 title: "Charamela"
 url: /ferrol/charamela/
-shop: Kleidung
+shop: ropa
 ---

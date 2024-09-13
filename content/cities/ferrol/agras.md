@@ -1,5 +1,5 @@
 ---
 title: "Agras"
 url: /ferrol/agras/
-shop: Schreibwaren
+shop: material de oficina
 ---

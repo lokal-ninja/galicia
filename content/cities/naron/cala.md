@@ -1,5 +1,5 @@
 ---
 title: "Cala"
 url: /naron/cala/
-shop: Blumen
+shop: floristería
 ---

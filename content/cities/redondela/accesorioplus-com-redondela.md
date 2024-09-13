@@ -1,5 +1,5 @@
 ---
 title: "Accesorioplus.com Redondela"
 url: /redondela/accesorioplus-com-redondela/
-shop: Autoteile
+shop: piezas de automóviles
 ---

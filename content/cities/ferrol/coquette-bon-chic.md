@@ -1,5 +1,5 @@
 ---
 title: "Coquette Bon Chic"
 url: /ferrol/coquette-bon-chic/
-shop: Kleidung
+shop: ropa
 ---

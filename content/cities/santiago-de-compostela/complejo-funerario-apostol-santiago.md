@@ -1,5 +1,5 @@
 ---
 title: "Complejo Funerario Apóstol Santiago"
 url: /santiago-de-compostela/complejo-funerario-apostol-santiago/
-shop: Bestattungen
+shop: directores de funerarias
 ---

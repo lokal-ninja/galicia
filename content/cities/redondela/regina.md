@@ -1,5 +1,5 @@
 ---
 title: "Regina"
 url: /redondela/regina/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

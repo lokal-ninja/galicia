@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /gondomar/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

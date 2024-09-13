@@ -1,5 +1,5 @@
 ---
 title: "Bōken Viajes Carrefour"
 url: /naron/boken-viajes-carrefour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

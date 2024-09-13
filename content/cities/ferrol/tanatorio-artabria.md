@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Artabria"
 url: /ferrol/tanatorio-artabria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

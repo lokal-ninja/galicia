@@ -1,5 +1,5 @@
 ---
 title: "Moda Nupcial"
 url: /ferrol/moda-nupcial/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Atlântica"
 url: /redondela/casa-atlantica/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ideamoble"
 url: /carral/ideamoble/
-shop: Möbel
+shop: muebles
 ---

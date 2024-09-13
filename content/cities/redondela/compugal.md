@@ -1,5 +1,5 @@
 ---
 title: "Compugal"
 url: /redondela/compugal/
-shop: Computer
+shop: ordenador
 ---

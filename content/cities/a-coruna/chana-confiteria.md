@@ -1,5 +1,5 @@
 ---
 title: "Chaná Confitería"
 url: /a-coruna/chana-confiteria/
-shop: Konditorei
+shop: pastelería
 ---

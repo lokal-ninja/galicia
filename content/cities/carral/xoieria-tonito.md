@@ -1,5 +1,5 @@
 ---
 title: "Xoiería Toñito"
 url: /carral/xoieria-tonito/
-shop: Schmuck
+shop: joyería
 ---

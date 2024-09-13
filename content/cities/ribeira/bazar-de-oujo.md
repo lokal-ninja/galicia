@@ -1,5 +1,5 @@
 ---
 title: "Bazar de Oujo"
 url: /ribeira/bazar-de-oujo/
-shop: Kramladen
+shop: tienda de variedades
 ---

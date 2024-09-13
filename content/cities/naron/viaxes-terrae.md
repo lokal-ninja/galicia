@@ -1,5 +1,5 @@
 ---
 title: "Viaxes Terrae"
 url: /naron/viaxes-terrae/
-shop: Reisebüro
+shop: agencia de viajes
 ---

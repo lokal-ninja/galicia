@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /boiro/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

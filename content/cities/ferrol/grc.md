@@ -1,5 +1,5 @@
 ---
 title: "GRC"
 url: /ferrol/grc/
-shop: Schuhe
+shop: zapatos
 ---

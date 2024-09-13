@@ -1,5 +1,5 @@
 ---
 title: "Mar das Sisargas"
 url: /carral/mar-das-sisargas/
-shop: Fisch
+shop: marisco
 ---

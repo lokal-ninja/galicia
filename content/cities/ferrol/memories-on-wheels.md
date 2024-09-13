@@ -1,5 +1,5 @@
 ---
 title: "Memories on Wheels"
 url: /ferrol/memories-on-wheels/
-shop: Kleidung
+shop: ropa
 ---

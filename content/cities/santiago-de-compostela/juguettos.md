@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /santiago-de-compostela/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

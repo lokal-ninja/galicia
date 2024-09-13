@@ -1,5 +1,5 @@
 ---
 title: "Agro Abegondo"
 url: /abegondo/agro-abegondo/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Chousa"
 url: /lugo/panaderia-chousa/
-shop: Bäckerei
+shop: panadería
 ---

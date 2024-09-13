@@ -1,5 +1,5 @@
 ---
 title: "Manuela"
 url: /o-porrino/manuela/
-shop: Textil
+shop: tela
 ---

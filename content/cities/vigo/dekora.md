@@ -1,5 +1,5 @@
 ---
 title: "Dekora"
 url: /vigo/dekora/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Labadía de Petramora"
 url: /santiago-de-compostela/labadia-de-petramora/
-shop: Feinkost
+shop: charcutería
 ---

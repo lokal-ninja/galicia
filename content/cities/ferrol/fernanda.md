@@ -1,5 +1,5 @@
 ---
 title: "Fernanda"
 url: /ferrol/fernanda/
-shop: Massage
+shop: masaje
 ---

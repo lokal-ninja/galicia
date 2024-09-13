@@ -1,5 +1,5 @@
 ---
 title: "Talleres Cañas"
 url: /abegondo/talleres-canas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

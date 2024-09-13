@@ -1,5 +1,5 @@
 ---
 title: "Pergamo"
 url: /naron/pergamo/
-shop: Rahmen
+shop: marco
 ---

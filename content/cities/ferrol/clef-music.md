@@ -1,5 +1,5 @@
 ---
 title: "Clef Music"
 url: /ferrol/clef-music/
-shop: Instrumente
+shop: instrumento musical
 ---

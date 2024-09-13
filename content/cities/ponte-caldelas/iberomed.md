@@ -1,5 +1,5 @@
 ---
 title: "Iberomed"
 url: /ponte-caldelas/iberomed/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

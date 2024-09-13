@@ -1,5 +1,5 @@
 ---
 title: "Motos Romero"
 url: /ares/motos-romero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

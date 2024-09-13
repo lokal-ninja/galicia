@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /a-coruna/carrefour-rua-francisco-perez-carballo/
-shop: Supermarkt
+shop: supermercado
 ---

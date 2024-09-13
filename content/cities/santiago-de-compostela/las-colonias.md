@@ -1,5 +1,5 @@
 ---
 title: "Las Colonias"
 url: /santiago-de-compostela/las-colonias/
-shop: Bäckerei
+shop: panadería
 ---

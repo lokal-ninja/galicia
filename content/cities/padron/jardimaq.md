@@ -1,5 +1,5 @@
 ---
 title: "Jardimaq"
 url: /padron/jardimaq/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

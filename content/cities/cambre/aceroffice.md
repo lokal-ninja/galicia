@@ -1,5 +1,5 @@
 ---
 title: "ACEROffice"
 url: /cambre/aceroffice/
-shop: Möbel
+shop: muebles
 ---

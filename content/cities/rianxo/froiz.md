@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /rianxo/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

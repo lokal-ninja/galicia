@@ -1,5 +1,5 @@
 ---
 title: "Bugas"
 url: /oleiros/bugas/
-shop: Autohaus
+shop: coche
 ---

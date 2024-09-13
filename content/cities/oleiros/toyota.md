@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /oleiros/toyota/
-shop: Autohaus
+shop: coche
 ---

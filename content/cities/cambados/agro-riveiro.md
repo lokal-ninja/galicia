@@ -1,5 +1,5 @@
 ---
 title: "Agro Riveiro"
 url: /cambados/agro-riveiro/
-shop: Garten-Center
+shop: centro de jardinería
 ---

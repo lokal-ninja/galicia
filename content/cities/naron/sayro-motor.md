@@ -1,5 +1,5 @@
 ---
 title: "Sayro motor"
 url: /naron/sayro-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

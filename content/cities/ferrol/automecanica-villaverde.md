@@ -1,5 +1,5 @@
 ---
 title: "Automecánica Villaverde"
 url: /ferrol/automecanica-villaverde/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

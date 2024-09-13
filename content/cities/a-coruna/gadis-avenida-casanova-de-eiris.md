@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /a-coruna/gadis-avenida-casanova-de-eiris/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barato Bazar"
 url: /naron/barato-bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

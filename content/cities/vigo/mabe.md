@@ -1,5 +1,5 @@
 ---
 title: "Mabe"
 url: /vigo/mabe/
-shop: Allgemein
+shop: general
 ---

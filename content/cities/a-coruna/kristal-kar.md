@@ -1,5 +1,5 @@
 ---
 title: "Kristal Kar"
 url: /a-coruna/kristal-kar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

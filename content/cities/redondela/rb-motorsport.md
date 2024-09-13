@@ -1,5 +1,5 @@
 ---
 title: "RB Motorsport"
 url: /redondela/rb-motorsport/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

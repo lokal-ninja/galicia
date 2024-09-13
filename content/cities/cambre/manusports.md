@@ -1,5 +1,5 @@
 ---
 title: "ManuSports"
 url: /cambre/manusports/
-shop: Sport
+shop: deportes
 ---

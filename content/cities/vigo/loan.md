@@ -1,5 +1,5 @@
 ---
 title: "Loan"
 url: /vigo/loan/
-shop: Konditorei
+shop: pastelería
 ---

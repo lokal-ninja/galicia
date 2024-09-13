@@ -1,5 +1,5 @@
 ---
 title: "Bazar Chino"
 url: /sada/bazar-chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

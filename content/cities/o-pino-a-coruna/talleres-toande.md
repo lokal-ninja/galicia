@@ -1,5 +1,5 @@
 ---
 title: "Talleres Toande"
 url: /o-pino-a-coruna/talleres-toande/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

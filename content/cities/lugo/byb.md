@@ -1,5 +1,5 @@
 ---
 title: "ByB"
 url: /lugo/byb/
-shop: Babysachen
+shop: artículos para bebés
 ---

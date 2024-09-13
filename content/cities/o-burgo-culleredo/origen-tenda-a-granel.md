@@ -1,5 +1,5 @@
 ---
 title: "Origen (tenda a granel)"
 url: /o-burgo-culleredo/origen-tenda-a-granel/
-shop: Gemüse & Obst
+shop: frutería
 ---

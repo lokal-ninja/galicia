@@ -1,5 +1,5 @@
 ---
 title: "Casalaranxa"
 url: /redondela/casalaranxa/
-shop: Gardinen
+shop: cortina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sargadelos"
 url: /a-coruna/sargadelos/
-shop: Töpferei
+shop: cerámica
 ---

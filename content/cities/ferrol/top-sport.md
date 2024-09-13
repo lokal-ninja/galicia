@@ -1,5 +1,5 @@
 ---
 title: "Top Sport"
 url: /ferrol/top-sport/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tobarix"
 url: /lugo/tobarix/
-shop: Kramladen
+shop: tienda de variedades
 ---

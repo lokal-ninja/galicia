@@ -1,5 +1,5 @@
 ---
 title: "Claudio Express"
 url: /a-coruna/claudio-express/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beep"
 url: /rianxo/beep/
-shop: Computer
+shop: ordenador
 ---

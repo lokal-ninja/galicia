@@ -1,5 +1,5 @@
 ---
 title: "Super - Chino"
 url: /fene/super-chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

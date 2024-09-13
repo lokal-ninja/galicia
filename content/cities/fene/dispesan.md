@@ -1,5 +1,5 @@
 ---
 title: "Dispesan"
 url: /fene/dispesan/
-shop: Kaffee
+shop: café
 ---

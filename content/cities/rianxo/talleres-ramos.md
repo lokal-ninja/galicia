@@ -1,5 +1,5 @@
 ---
 title: "Talleres Ramos"
 url: /rianxo/talleres-ramos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

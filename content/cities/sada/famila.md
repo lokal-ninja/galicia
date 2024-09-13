@@ -1,5 +1,5 @@
 ---
 title: "Famila"
 url: /sada/famila/
-shop: Supermarkt
+shop: supermercado
 ---

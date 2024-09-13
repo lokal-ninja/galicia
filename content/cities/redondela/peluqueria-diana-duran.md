@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Diana Durán"
 url: /redondela/peluqueria-diana-duran/
-shop: Friseur
+shop: peluquería
 ---

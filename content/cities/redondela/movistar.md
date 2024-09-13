@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /redondela/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

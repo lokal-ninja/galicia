@@ -1,5 +1,5 @@
 ---
 title: "Caamaño"
 url: /boiro/caamano/
-shop: Haushaltsgeräte
+shop: aparato
 ---

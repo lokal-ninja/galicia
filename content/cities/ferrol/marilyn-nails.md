@@ -1,5 +1,5 @@
 ---
 title: "Marilyn Nails"
 url: /ferrol/marilyn-nails/
-shop: Kosmetik
+shop: cosméticos
 ---

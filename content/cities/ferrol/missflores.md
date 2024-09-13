@@ -1,5 +1,5 @@
 ---
 title: "Missflores"
 url: /ferrol/missflores/
-shop: Blumen
+shop: floristería
 ---

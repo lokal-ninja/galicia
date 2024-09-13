@@ -1,5 +1,5 @@
 ---
 title: "FiR"
 url: /naron/fir/
-shop: Eisenwaren
+shop: hardware
 ---

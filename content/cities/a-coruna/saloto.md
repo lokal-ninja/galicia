@@ -1,5 +1,5 @@
 ---
 title: "Saloto"
 url: /a-coruna/saloto/
-shop: Allgemein
+shop: general
 ---

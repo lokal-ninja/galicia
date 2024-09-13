@@ -1,5 +1,5 @@
 ---
 title: "Progando"
 url: /coristanco/progando/
-shop: Landwirtschaftlich
+shop: agraria
 ---

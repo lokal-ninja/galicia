@@ -1,5 +1,5 @@
 ---
 title: "Yirandola"
 url: /redondela/yirandola/
-shop: Kleidung
+shop: ropa
 ---

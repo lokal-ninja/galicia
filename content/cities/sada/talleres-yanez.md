@@ -1,5 +1,5 @@
 ---
 title: "Talleres Yañez"
 url: /sada/talleres-yanez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

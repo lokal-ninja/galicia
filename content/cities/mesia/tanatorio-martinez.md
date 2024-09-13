@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Martínez"
 url: /mesia/tanatorio-martinez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

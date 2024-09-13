@@ -1,5 +1,5 @@
 ---
 title: "Kenia"
 url: /ferrol/kenia/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claudio"
 url: /camarinas/claudio/
-shop: Supermarkt
+shop: supermercado
 ---

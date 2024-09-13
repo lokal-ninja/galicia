@@ -1,5 +1,5 @@
 ---
 title: "Lourdes"
 url: /cangas/lourdes/
-shop: Lebensmittel
+shop: comodidad
 ---

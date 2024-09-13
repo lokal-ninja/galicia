@@ -1,5 +1,5 @@
 ---
 title: "Abelleira"
 url: /pontevedra/abelleira/
-shop: Bäckerei
+shop: panadería
 ---

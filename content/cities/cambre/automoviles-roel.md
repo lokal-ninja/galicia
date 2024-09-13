@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Roel"
 url: /cambre/automoviles-roel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

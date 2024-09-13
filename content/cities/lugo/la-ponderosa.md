@@ -1,5 +1,5 @@
 ---
 title: "La Ponderosa"
 url: /lugo/la-ponderosa/
-shop: Kramladen
+shop: tienda de variedades
 ---

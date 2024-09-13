@@ -1,5 +1,5 @@
 ---
 title: "Muebles Ulla"
 url: /vedra/muebles-ulla/
-shop: Möbel
+shop: muebles
 ---

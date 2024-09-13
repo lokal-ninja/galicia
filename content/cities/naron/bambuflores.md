@@ -1,5 +1,5 @@
 ---
 title: "Bambuflores"
 url: /naron/bambuflores/
-shop: Blumen
+shop: floristería
 ---

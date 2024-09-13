@@ -1,5 +1,5 @@
 ---
 title: "Viaxes Agarimo"
 url: /redondela/viaxes-agarimo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

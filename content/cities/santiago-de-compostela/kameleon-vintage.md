@@ -1,5 +1,5 @@
 ---
 title: "Kaméleon Vintage"
 url: /santiago-de-compostela/kameleon-vintage/
-shop: Kleidung
+shop: ropa
 ---

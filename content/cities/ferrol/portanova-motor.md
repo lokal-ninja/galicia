@@ -1,5 +1,5 @@
 ---
 title: "Portanova Motor"
 url: /ferrol/portanova-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

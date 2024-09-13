@@ -1,5 +1,5 @@
 ---
 title: "Cocisar"
 url: /sarria/cocisar/
-shop: Möbel
+shop: muebles
 ---

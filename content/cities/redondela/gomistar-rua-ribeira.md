@@ -1,5 +1,5 @@
 ---
 title: "Gomistar"
 url: /redondela/gomistar-rua-ribeira/
-shop: Süßwaren
+shop: confitería
 ---

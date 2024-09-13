@@ -1,5 +1,5 @@
 ---
 title: "Folder"
 url: /pontevedra/folder/
-shop: Schreibwaren
+shop: material de oficina
 ---

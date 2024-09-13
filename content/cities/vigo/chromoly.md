@@ -1,5 +1,5 @@
 ---
 title: "Chromoly"
 url: /vigo/chromoly/
-shop: Kleidung
+shop: ropa
 ---

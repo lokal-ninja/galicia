@@ -1,5 +1,5 @@
 ---
 title: "Arpon"
 url: /naron/arpon/
-shop: Angeln
+shop: pesca
 ---

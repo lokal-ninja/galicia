@@ -1,5 +1,5 @@
 ---
 title: "O'cotilleo"
 url: /naron/ocotilleo/
-shop: Schreibwaren
+shop: material de oficina
 ---

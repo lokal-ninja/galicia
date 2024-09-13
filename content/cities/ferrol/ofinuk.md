@@ -1,5 +1,5 @@
 ---
 title: "Ofinuk"
 url: /ferrol/ofinuk/
-shop: Schreibwaren
+shop: material de oficina
 ---

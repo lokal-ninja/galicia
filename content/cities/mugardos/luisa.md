@@ -1,5 +1,5 @@
 ---
 title: "Luisa"
 url: /mugardos/luisa/
-shop: Tabak
+shop: tabaco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sat Galicia"
 url: /vigo/sat-galicia/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acacia Flores"
 url: /santiago-de-compostela/acacia-flores/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floristería Marina"
 url: /vigo/floristeria-marina/
-shop: Blumen
+shop: floristería
 ---

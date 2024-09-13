@@ -1,5 +1,5 @@
 ---
 title: "Ontdek Galicië"
 url: /pontevedra/ontdek-galicie/
-shop: Reisebüro
+shop: agencia de viajes
 ---

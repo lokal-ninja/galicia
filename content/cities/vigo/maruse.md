@@ -1,5 +1,5 @@
 ---
 title: "Maruse"
 url: /vigo/maruse/
-shop: Bücher
+shop: libros
 ---

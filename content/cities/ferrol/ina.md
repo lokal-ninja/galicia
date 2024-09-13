@@ -1,5 +1,5 @@
 ---
 title: "Ina"
 url: /ferrol/ina/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gott"
 url: /ferrol/gott/
-shop: Kiosk
+shop: quiosco
 ---

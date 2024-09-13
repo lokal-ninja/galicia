@@ -1,5 +1,5 @@
 ---
 title: "Gráficas Lorenzo"
 url: /pontevedra/graficas-lorenzo/
-shop: Allgemein
+shop: general
 ---

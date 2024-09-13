@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /vigo/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

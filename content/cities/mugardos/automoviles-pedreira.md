@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Pedreira"
 url: /mugardos/automoviles-pedreira/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

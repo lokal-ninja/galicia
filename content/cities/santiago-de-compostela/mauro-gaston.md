@@ -1,5 +1,5 @@
 ---
 title: "Mauro Gastón"
 url: /santiago-de-compostela/mauro-gaston/
-shop: Friseur
+shop: peluquería
 ---

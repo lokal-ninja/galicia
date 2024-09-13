@@ -1,5 +1,5 @@
 ---
 title: "ECOiffure"
 url: /ferrol/ecoiffure/
-shop: Friseur
+shop: peluquería
 ---

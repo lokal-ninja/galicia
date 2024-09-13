@@ -1,5 +1,5 @@
 ---
 title: "Ofilink"
 url: /cambre/ofilink/
-shop: Schreibwaren
+shop: material de oficina
 ---

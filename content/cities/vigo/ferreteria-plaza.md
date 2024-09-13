@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Plaza"
 url: /vigo/ferreteria-plaza/
-shop: Eisenwaren
+shop: hardware
 ---

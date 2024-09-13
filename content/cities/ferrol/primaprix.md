@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /ferrol/primaprix/
-shop: Supermarkt
+shop: supermercado
 ---

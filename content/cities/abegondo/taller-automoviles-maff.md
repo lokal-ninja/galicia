@@ -1,5 +1,5 @@
 ---
 title: "Taller automóviles MAFF"
 url: /abegondo/taller-automoviles-maff/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

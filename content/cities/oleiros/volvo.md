@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /oleiros/volvo/
-shop: Autohaus
+shop: coche
 ---

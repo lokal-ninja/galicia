@@ -1,5 +1,5 @@
 ---
 title: "Mampaplus"
 url: /naron/mampaplus/
-shop: Badezimmer
+shop: cuarto de baño
 ---

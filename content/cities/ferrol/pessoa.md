@@ -1,5 +1,5 @@
 ---
 title: "Pessoa"
 url: /ferrol/pessoa/
-shop: Gebrauchtwaren
+shop: caridad
 ---

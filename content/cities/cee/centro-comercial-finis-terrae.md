@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Finis Terrae"
 url: /cee/centro-comercial-finis-terrae/
-shop: Warenhaus
+shop: grandes almacenes
 ---

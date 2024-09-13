@@ -1,5 +1,5 @@
 ---
 title: "OptiRedondela"
 url: /redondela/optiredondela/
-shop: Optiker
+shop: óptico
 ---

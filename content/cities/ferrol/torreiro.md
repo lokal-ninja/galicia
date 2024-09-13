@@ -1,5 +1,5 @@
 ---
 title: "Torreiro"
 url: /ferrol/torreiro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

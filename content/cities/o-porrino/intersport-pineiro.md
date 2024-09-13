@@ -1,5 +1,5 @@
 ---
 title: "Intersport Piñeiro"
 url: /o-porrino/intersport-pineiro/
-shop: Sport
+shop: deportes
 ---

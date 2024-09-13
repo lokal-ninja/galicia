@@ -1,5 +1,5 @@
 ---
 title: "Chen Bazar Oriental"
 url: /redondela/chen-bazar-oriental/
-shop: Kramladen
+shop: tienda de variedades
 ---

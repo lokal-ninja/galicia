@@ -1,5 +1,5 @@
 ---
 title: "Antoxo"
 url: /cangas/antoxo/
-shop: Bäckerei
+shop: panadería
 ---

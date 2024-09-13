@@ -1,5 +1,5 @@
 ---
 title: "Silva"
 url: /vigo/silva/
-shop: Eisenwaren
+shop: hardware
 ---

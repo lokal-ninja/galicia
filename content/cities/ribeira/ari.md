@@ -1,5 +1,5 @@
 ---
 title: "Ari"
 url: /ribeira/ari/
-shop: Bücher
+shop: libros
 ---

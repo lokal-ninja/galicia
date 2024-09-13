@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /lugo/carrefour/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

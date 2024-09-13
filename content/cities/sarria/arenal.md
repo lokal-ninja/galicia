@@ -1,5 +1,5 @@
 ---
 title: "Arenal"
 url: /sarria/arenal/
-shop: Drogerie
+shop: farmacia
 ---

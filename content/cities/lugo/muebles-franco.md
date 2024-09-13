@@ -1,5 +1,5 @@
 ---
 title: "Muebles Franco"
 url: /lugo/muebles-franco/
-shop: Möbel
+shop: muebles
 ---
