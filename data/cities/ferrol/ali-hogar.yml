@@ -1,11 +1,11 @@
 id: 34821995
-type: way
+type: node
 latitude: 43.4864
 longitude: -8.2027
 postcode: "15404"
 city: Ferrol
-street: "Avenida Nicasio Pérez"
-housenumber: 23
+street: Avenida Nicasio Pérez
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

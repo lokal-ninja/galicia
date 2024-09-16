@@ -4,8 +4,8 @@ latitude: 42.87443
 longitude: -8.54791
 postcode: "15701"
 city: Santiago de Compostela
-street: "Rúa da República de El Salvador"
-housenumber: 23
-phone: "+34 981594026"
-opening_hours: "10:00-20:00"
-website: "https://www.lafemme.es/"
+street: Rúa da República de El Salvador
+housenumber: "23"
+phone: +34 981594026
+opening_hours: 10:00-20:00
+website: https://www.lafemme.es/

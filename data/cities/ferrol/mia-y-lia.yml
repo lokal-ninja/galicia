@@ -4,8 +4,8 @@ latitude: 43.48383
 longitude: -8.23332
 postcode: "15402"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 105
-phone: "+34 606 501709"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00,17:00-20:00"
-website: "https://miaylia.com/"
+street: Rúa Real
+housenumber: "105"
+phone: +34 606 501709
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00,17:00-20:00
+website: https://miaylia.com/

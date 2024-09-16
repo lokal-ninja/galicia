@@ -1,11 +1,11 @@
 id: 385216601
-type: way
+type: node
 latitude: 43.29432
 longitude: -8.2653
 postcode: "15165"
 city: Bergondo
-street: "Brea"
-housenumber: 66
+street: Brea
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

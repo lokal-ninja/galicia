@@ -1,11 +1,11 @@
 id: 234821239
-type: way
+type: node
 latitude: 43.00532
 longitude: -7.56343
 postcode: "27004"
 city: Lugo
-street: "Ronda do Carme"
-housenumber: 
+street: Ronda do Carme
+housenumber: ""
 phone: "+34982244209"
 opening_hours: ""
-website: "https://www.mueblesfranco.com/"
+website: https://www.mueblesfranco.com/

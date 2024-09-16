@@ -4,8 +4,8 @@ latitude: 42.88275
 longitude: -8.5337
 postcode: "15703"
 city: Santiago de Compostela
-street: "Rúa de Triacastela"
-housenumber: 3
-phone: "+34 981580786"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:30; Sa 09:00-14:00"
+street: Rúa de Triacastela
+housenumber: "3"
+phone: +34 981580786
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:30; Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 210973980
-type: way
+type: node
 latitude: 43.32926
 longitude: -8.36701
 postcode: "15172"
 city: Oleiros
-street: "Avenida das Mariñas"
-housenumber: 295
+street: Avenida das Mariñas
+housenumber: "295"
 phone: ""
 opening_hours: ""
-website: "https://louzao.com/"
+website: https://louzao.com/

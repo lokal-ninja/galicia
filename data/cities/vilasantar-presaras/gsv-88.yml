@@ -1,11 +1,11 @@
 id: 296939843
-type: way
+type: node
 latitude: 43.04729
 longitude: -8.1088
 postcode: "15807"
 city: Vilasantar Presaras
-street: "Foro"
-housenumber: 88
+street: Foro
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.48365
 longitude: -8.23374
 postcode: ""
 city: Ferrol
-street: "Rúa Real"
-housenumber: 117
-phone: "+34 981 352159"
-opening_hours: "Mo-Fr 10:00-13:30,18:00-20:30; Sa 10:00-13:30; Su off"
-website: "https://www.goma2.com/"
+street: Rúa Real
+housenumber: "117"
+phone: +34 981 352159
+opening_hours: Mo-Fr 10:00-13:30,18:00-20:30; Sa 10:00-13:30; Su off
+website: https://www.goma2.com/

@@ -1,11 +1,11 @@
 id: 1157051218
-type: way
+type: node
 latitude: 43.20362
 longitude: -8.69803
 postcode: "15100"
 city: Carballo
-street: "Avenida da Revolta"
-housenumber: 
+street: Avenida da Revolta
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

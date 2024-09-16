@@ -1,11 +1,11 @@
 id: 677030739
-type: way
+type: node
 latitude: 42.18007
 longitude: -8.54487
 postcode: ""
 city: Ponteareas
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+34.986644004"
 opening_hours: ""
-website: "https://www.scania.com/es/es/scania-hispania-region-noroeste/acerca-nosotros/puntos-servicio/pontevedra.html"
+website: https://www.scania.com/es/es/scania-hispania-region-noroeste/acerca-nosotros/puntos-servicio/pontevedra.html

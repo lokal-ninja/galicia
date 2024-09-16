@@ -1,11 +1,11 @@
 id: 205990408
-type: way
+type: node
 latitude: 43.35122
 longitude: -8.26883
 postcode: "15160"
 city: Sada
-street: "Tarabelo"
-housenumber: 31
+street: Tarabelo
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

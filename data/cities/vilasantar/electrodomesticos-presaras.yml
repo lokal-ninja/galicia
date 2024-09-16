@@ -1,11 +1,11 @@
 id: 525929752
-type: way
+type: node
 latitude: 43.0489
 longitude: -8.10604
 postcode: ""
 city: Vilasantar
-street: "Avenida Maestro Mallo Abellán"
-housenumber: 98
+street: Avenida Maestro Mallo Abellán
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

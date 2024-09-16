@@ -4,8 +4,8 @@ latitude: 42.78463
 longitude: -8.88662
 postcode: "15200"
 city: Noia
-street: "Rúa de Galicia"
-housenumber: 26
-phone: "+34 981842094"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:30-14:30"
-website: "https://www.froiz.com/"
+street: Rúa de Galicia
+housenumber: "26"
+phone: +34 981842094
+opening_hours: Mo-Sa 09:00-21:00; Su 09:30-14:30
+website: https://www.froiz.com/

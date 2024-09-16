@@ -4,8 +4,8 @@ latitude: 42.33986
 longitude: -7.86312
 postcode: "32003"
 city: Ourense
-street: "Rúa Santo Domingo"
-housenumber: 64
-phone: "+34 988252173"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-13:30"
+street: Rúa Santo Domingo
+housenumber: "64"
+phone: +34 988252173
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-13:30
 website: ""

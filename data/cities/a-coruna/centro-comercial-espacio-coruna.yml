@@ -1,11 +1,13 @@
 id: 55072110
-type: way
+type: node
 latitude: 43.33738
 longitude: -8.41157
 postcode: "15008"
 city: A Coruña
-street: "Rúa José Pascual López Cortón"
-housenumber: 10
+street: Rúa José Pascual López Cortón
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su-Th 10:00-23:00 bar; Fr-Sa 10:00-23:59 bar; Su 00:00-00:30 bar; Mo-Fr 07:00-23:59 parking; Tu-Sa 00:00-00:30 parking; Sa-Su 07:00-23:59 parking; Mo 00:00-02:30 parking"
-website: "https://espaciocoruna.es/"
+opening_hours: Mo-Sa 10:00-22:00; Su-Th 10:00-23:00 "bar"; Fr-Sa 10:00-23:59 "bar";
+    Su 00:00-00:30 "bar"; Mo-Fr 07:00-23:59 "parking"; Tu-Sa 00:00-00:30 "parking";
+    Sa-Su 07:00-23:59 "parking"; Mo 00:00-02:30 "parking"
+website: https://espaciocoruna.es/

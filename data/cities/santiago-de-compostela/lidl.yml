@@ -1,11 +1,11 @@
 id: 243080162
-type: way
+type: node
 latitude: 42.90141
 longitude: -8.51056
 postcode: "15707"
 city: Santiago de Compostela
-street: "Rúa de Eslovenia"
-housenumber: 2
+street: Rúa de Eslovenia
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

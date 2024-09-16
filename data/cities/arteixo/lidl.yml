@@ -1,11 +1,11 @@
 id: 571471913
-type: way
+type: node
 latitude: 43.30654
 longitude: -8.50893
 postcode: "15142"
 city: Arteixo
-street: "Avenida Arsenio Iglesias"
-housenumber: 
+street: Avenida Arsenio Iglesias
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

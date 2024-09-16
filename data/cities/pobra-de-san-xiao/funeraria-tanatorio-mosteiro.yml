@@ -1,11 +1,11 @@
 id: 517953067
-type: way
+type: node
 latitude: 42.86645
 longitude: -7.44605
 postcode: "27360"
 city: Pobra de San Xiao
-street: "Avenida Benigno Quiroga"
-housenumber: 29
+street: Avenida Benigno Quiroga
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

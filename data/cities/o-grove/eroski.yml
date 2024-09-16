@@ -1,11 +1,11 @@
 id: 237949244
-type: way
+type: node
 latitude: 42.49539
 longitude: -8.86405
 postcode: ""
 city: O Grove
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.eroski.es/"
+website: https://www.eroski.es/

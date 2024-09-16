@@ -1,11 +1,11 @@
 id: 158308295
-type: way
+type: node
 latitude: 43.00652
 longitude: -7.57396
 postcode: ""
 city: Lugo
-street: "Avenida dos Deportes"
-housenumber: 
+street: Avenida dos Deportes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

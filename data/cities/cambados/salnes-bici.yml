@@ -4,8 +4,8 @@ latitude: 42.51932
 longitude: -8.81675
 postcode: "36630"
 city: Cambados
-street: "Rúa Sevilla"
-housenumber: 27
+street: Rúa Sevilla
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://salnesbici.com/"
+website: https://salnesbici.com/

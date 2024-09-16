@@ -1,11 +1,11 @@
 id: 177481947
-type: way
+type: node
 latitude: 43.53341
 longitude: -8.19218
 postcode: "15578"
 city: Narón
-street: "Avenida de Gonzalo Navarro"
-housenumber: 48
+street: Avenida de Gonzalo Navarro
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

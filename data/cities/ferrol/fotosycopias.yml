@@ -4,8 +4,8 @@ latitude: 43.48236
 longitude: -8.23616
 postcode: "15402"
 city: Ferrol
-street: "Rúa Madalena"
-housenumber: 182
-phone: "+34 981 801498"
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:00; Sa 10:00-13:30; Su,PH off"
-website: "https://www.fotosycopias.es/"
+street: Rúa Madalena
+housenumber: "182"
+phone: +34 981 801498
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:00; Sa 10:00-13:30; Su,PH off
+website: https://www.fotosycopias.es/

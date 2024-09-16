@@ -1,11 +1,11 @@
 id: 1017981098
-type: way
+type: node
 latitude: 42.31324
 longitude: -7.86427
 postcode: "32005"
 city: Ourense
-street: "Rúa da Ponte Sevilla"
-housenumber: 17
+street: Rúa da Ponte Sevilla
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

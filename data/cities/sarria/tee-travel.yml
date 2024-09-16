@@ -4,8 +4,8 @@ latitude: 42.77576
 longitude: -7.41103
 postcode: "27600"
 city: Sarria
-street: "Rúa do Peregrino"
-housenumber: 23
-phone: "+34 986565026"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.tee-travel.com"
+street: Rúa do Peregrino
+housenumber: "23"
+phone: +34 986565026
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.tee-travel.com

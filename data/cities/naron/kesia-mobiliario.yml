@@ -1,11 +1,11 @@
 id: 216961040
-type: way
+type: node
 latitude: 43.52078
 longitude: -8.18778
 postcode: "15570"
 city: Narón
-street: "Estrada de Cedeira"
-housenumber: 
-phone: "+34 981 387036"
-opening_hours: "Mo-Fr 10:00-13:30,16:30-20:00; Sa 10:00-13:30,17:30-21:00; Su,PH off"
-website: "https://www.kesiamobiliario.es/"
+street: Estrada de Cedeira
+housenumber: ""
+phone: +34 981 387036
+opening_hours: Mo-Fr 10:00-13:30,16:30-20:00; Sa 10:00-13:30,17:30-21:00; Su,PH off
+website: https://www.kesiamobiliario.es/

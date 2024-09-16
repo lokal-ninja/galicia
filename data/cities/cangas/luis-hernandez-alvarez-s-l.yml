@@ -4,8 +4,8 @@ latitude: 42.26355
 longitude: -8.78496
 postcode: "36940"
 city: Cangas
-street: "Rúa Real"
-housenumber: 1
+street: Rúa Real
+housenumber: "1"
 phone: "+34986301110"
-opening_hours: "Tu-Fr 09:30-14:00, 16:30-20:30; Sa 09:30-14:00"
-website: "http://www.luishernandez.es/"
+opening_hours: Tu-Fr 09:30-14:00, 16:30-20:30; Sa 09:30-14:00
+website: http://www.luishernandez.es/

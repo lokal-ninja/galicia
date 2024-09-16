@@ -1,11 +1,11 @@
 id: 1113326034
-type: way
+type: node
 latitude: 42.80952
 longitude: -8.78835
 postcode: "15214"
 city: Lousame
-street: "Fontefría"
-housenumber: 14
+street: Fontefría
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

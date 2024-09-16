@@ -1,11 +1,11 @@
 id: 193002586
-type: way
+type: node
 latitude: 43.32754
 longitude: -8.3654
 postcode: "15172"
 city: Oleiros
-street: "Avenida das Mariñas"
-housenumber: 285
+street: Avenida das Mariñas
+housenumber: "285"
 phone: ""
 opening_hours: ""
-website: "https://arrojoaudi.com/"
+website: https://arrojoaudi.com/

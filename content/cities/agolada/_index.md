@@ -1,6 +1,6 @@
 ---
 title: Agolada
 url: /agolada/
-latitude: 42.762
-longitude: -8.024
+latitude: 42.764
+longitude: -8.018
 ---

@@ -4,8 +4,9 @@ latitude: 43.36249
 longitude: -8.40621
 postcode: "15005"
 city: A Coruña
-street: "Rúa Federico Tapia"
-housenumber: 41
-phone: "+34 981 121912"
-opening_hours: "Mo,We 10:00-13:30,16:30-20:00; Tu,Th,Fr 10:00-13:30,17:00-20:30; Sa 10:30-13:30"
-website: "https://www.somniumgalicia.com/"
+street: Rúa Federico Tapia
+housenumber: "41"
+phone: +34 981 121912
+opening_hours: Mo,We 10:00-13:30,16:30-20:00; Tu,Th,Fr 10:00-13:30,17:00-20:30; Sa
+    10:30-13:30
+website: https://www.somniumgalicia.com/

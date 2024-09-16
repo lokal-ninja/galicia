@@ -1,11 +1,11 @@
 id: 357144721
-type: way
+type: node
 latitude: 43.22236
 longitude: -8.68573
 postcode: "15100"
 city: Carballo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.alcampo.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.alcampo.es/

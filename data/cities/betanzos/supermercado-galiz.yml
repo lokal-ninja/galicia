@@ -1,11 +1,11 @@
 id: 377719793
-type: way
+type: node
 latitude: 43.28022
 longitude: -8.21091
 postcode: "15300"
 city: Betanzos
-street: "Rúa Nova"
-housenumber: 8
+street: Rúa Nova
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

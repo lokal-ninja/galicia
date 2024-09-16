@@ -1,11 +1,11 @@
 id: 235025260
-type: way
+type: node
 latitude: 43.37418
 longitude: -8.42683
 postcode: "15011"
 city: A Coruña
-street: "Ronda de Outeiro"
-housenumber: 419
+street: Ronda de Outeiro
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Th 10:00-23:30; Fr-Sa 10:00-24:00; Sa-Su 00:00-02:00; Su 12:00-24:00"
-website: "https://www.cclosrosales.com/"
+opening_hours: Mo-Th 10:00-23:30; Fr-Sa 10:00-24:00; Sa-Su 00:00-02:00; Su 12:00-24:00
+website: https://www.cclosrosales.com/

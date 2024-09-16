@@ -4,8 +4,8 @@ latitude: 42.43526
 longitude: -8.65356
 postcode: "36005"
 city: Poio
-street: "Paseo Domingo Fontán"
-housenumber: 
+street: Paseo Domingo Fontán
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.eroski.es/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.eroski.es/

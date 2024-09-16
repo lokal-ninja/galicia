@@ -1,11 +1,11 @@
 id: 836010774
-type: way
+type: node
 latitude: 42.1938
 longitude: -8.78199
 postcode: "36331"
 city: Vigo
-street: "Estrada do Vao"
-housenumber: 91
-phone: "+34 886 90 81 23"
-opening_hours: "Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00"
-website: "https://www.galibici.com/"
+street: Estrada do Vao
+housenumber: "91"
+phone: +34 886 90 81 23
+opening_hours: Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00
+website: https://www.galibici.com/

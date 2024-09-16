@@ -4,8 +4,8 @@ latitude: 43.34689
 longitude: -8.44601
 postcode: "15140"
 city: Arteixo
-street: "Travesía de Meicende"
-housenumber: 180
+street: Travesía de Meicende
+housenumber: "180"
 phone: ""
-opening_hours: "Jun-Sep: Mo-Sa 09:30-21:30; Oct-May: Mo-Sa 09:00-21:00"
+opening_hours: 'Jun-Sep: Mo-Sa 09:30-21:30; Oct-May: Mo-Sa 09:00-21:00'
 website: ""

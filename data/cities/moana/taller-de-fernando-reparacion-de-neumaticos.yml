@@ -1,11 +1,11 @@
 id: 755266762
-type: way
+type: node
 latitude: 42.2754
 longitude: -8.73952
 postcode: "36950"
 city: Moaña
-street: "Daniel Castelao"
-housenumber: 23
+street: Daniel Castelao
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

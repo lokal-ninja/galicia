@@ -5,7 +5,7 @@ longitude: -8.57579
 postcode: "36820"
 city: Ponte Caldelas
 street: ""
-housenumber: 44
-phone: "+34 886 11 88 62"
+housenumber: "44"
+phone: +34 886 11 88 62
 opening_hours: ""
-website: "https://iberomed.es"
+website: https://iberomed.es

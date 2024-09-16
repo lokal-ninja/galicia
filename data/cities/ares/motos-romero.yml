@@ -1,11 +1,11 @@
 id: 496742902
-type: way
+type: node
 latitude: 43.43128
 longitude: -8.24169
 postcode: "15624"
 city: Ares
-street: "Rúa dos Anxos"
-housenumber: 147
+street: Rúa dos Anxos
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

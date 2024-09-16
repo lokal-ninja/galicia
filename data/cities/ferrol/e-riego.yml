@@ -1,11 +1,11 @@
 id: 192334072
-type: way
+type: node
 latitude: 43.50493
 longitude: -8.22243
 postcode: "15405"
 city: Ferrol
-street: "Estrada de Catabois"
-housenumber: 477
-phone: "+34 981 329000"
+street: Estrada de Catabois
+housenumber: "477"
+phone: +34 981 329000
 opening_hours: ""
 website: ""

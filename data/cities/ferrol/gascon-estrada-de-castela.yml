@@ -1,11 +1,11 @@
 id: 490092556
-type: way
+type: node
 latitude: 43.48732
 longitude: -8.22552
 postcode: "15403"
 city: Ferrol
-street: "Estrada de Castela"
-housenumber: 12
-phone: "+34 981 312247;+34 651 052418"
+street: Estrada de Castela
+housenumber: "12"
+phone: +34 981 312247;+34 651 052418
 opening_hours: ""
-website: "https://www.confiteriagascon.com/"
+website: https://www.confiteriagascon.com/

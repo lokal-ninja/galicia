@@ -1,11 +1,11 @@
 id: 211049015
-type: way
+type: node
 latitude: 43.32149
 longitude: -8.31439
 postcode: "15173"
 city: Oleiros
-street: "Rúa O Barbanza"
-housenumber: 11
+street: Rúa O Barbanza
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

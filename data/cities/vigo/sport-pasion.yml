@@ -4,8 +4,8 @@ latitude: 42.19757
 longitude: -8.77289
 postcode: "36330"
 city: Vigo
-street: "Av. Ricardo Mella"
-housenumber: 123
-phone: "+34 986 247 558"
-opening_hours: "Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:30-13:30"
-website: "https://bicisvigo.es"
+street: Av. Ricardo Mella
+housenumber: "123"
+phone: +34 986 247 558
+opening_hours: Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:30-13:30
+website: https://bicisvigo.es

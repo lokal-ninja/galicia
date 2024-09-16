@@ -1,11 +1,11 @@
 id: 64279343
-type: way
+type: node
 latitude: 43.35617
 longitude: -8.25097
 postcode: "15160"
 city: Sada
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

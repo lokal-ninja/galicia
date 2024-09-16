@@ -4,8 +4,8 @@ latitude: 42.28411
 longitude: -8.60836
 postcode: "36800"
 city: Redondela
-street: "Praza da Constitución"
-housenumber: 3
-phone: "+34 986 40 49 49"
-opening_hours: "Mo-Sa 10:00-20:30"
-website: "https://www.decimas.com/es-es/"
+street: Praza da Constitución
+housenumber: "3"
+phone: +34 986 40 49 49
+opening_hours: Mo-Sa 10:00-20:30
+website: https://www.decimas.com/es-es/

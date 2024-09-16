@@ -1,11 +1,11 @@
 id: 573232253
-type: way
+type: node
 latitude: 43.47401
 longitude: -8.16824
 postcode: "15500"
 city: Fene
-street: "Avenida do Marqués de Figueroa"
-housenumber: 23
+street: Avenida do Marqués de Figueroa
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

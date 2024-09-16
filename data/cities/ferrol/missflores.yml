@@ -4,8 +4,8 @@ latitude: 43.4923
 longitude: -8.21207
 postcode: "15404"
 city: Ferrol
-street: "Rúa Barbeito"
-housenumber: 13
-phone: "+34 698 168857;+34 981 073835"
-opening_hours: "Mo-Fr 09:30-14:00,17:30-20:30; Sa 09:30-14:00; Su,PH off"
-website: "https://www.missfloresferrol.es"
+street: Rúa Barbeito
+housenumber: "13"
+phone: +34 698 168857;+34 981 073835
+opening_hours: Mo-Fr 09:30-14:00,17:30-20:30; Sa 09:30-14:00; Su,PH off
+website: https://www.missfloresferrol.es

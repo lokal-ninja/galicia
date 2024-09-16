@@ -4,8 +4,9 @@ latitude: 43.49167
 longitude: -8.21574
 postcode: ""
 city: Ferrol
-street: "Rúa Perbes"
+street: Rúa Perbes
 housenumber: 2-4
-phone: "+34 881 936875;+34 618 455355"
-opening_hours: "Mo,Sa 09:30-15:00; Tu,We 09:30-13:30,16:00-20:00; Th,Fr 09:30-20:00; Su,PH off"
+phone: +34 881 936875;+34 618 455355
+opening_hours: Mo,Sa 09:30-15:00; Tu,We 09:30-13:30,16:00-20:00; Th,Fr 09:30-20:00;
+    Su,PH off
 website: ""

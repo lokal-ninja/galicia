@@ -4,8 +4,8 @@ latitude: 43.49243
 longitude: -8.21225
 postcode: "15404"
 city: Ferrol
-street: "Rúa Barbeito"
-housenumber: 7
-phone: "+34 981 323302"
-opening_hours: "Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:00; Su,PH off"
+street: Rúa Barbeito
+housenumber: "7"
+phone: +34 981 323302
+opening_hours: Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:00; Su,PH off
 website: ""

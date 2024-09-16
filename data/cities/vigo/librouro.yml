@@ -1,11 +1,11 @@
 id: 451873569
-type: way
+type: node
 latitude: 42.23582
 longitude: -8.72285
 postcode: "36202"
 city: Vigo
-street: "Rúa Eduardo Iglesias"
-housenumber: 12
+street: Rúa Eduardo Iglesias
+housenumber: "12"
 phone: "+34986226317"
-opening_hours: "Mo-Sa 09:45-13:30; Mo-Sa 16:30-20:30"
-website: "http://librouro.com"
+opening_hours: Mo-Sa 09:45-13:30; Mo-Sa 16:30-20:30
+website: http://librouro.com

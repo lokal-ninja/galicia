@@ -1,11 +1,11 @@
 id: 243084504
-type: way
+type: node
 latitude: 42.91753
 longitude: -8.52948
 postcode: "15890"
 city: Santiago de Compostela
-street: "Vía de Marconi"
-housenumber: 15
-phone: "+34 981 57 38 26"
+street: Vía de Marconi
+housenumber: "15"
+phone: +34 981 57 38 26
 opening_hours: ""
 website: ""

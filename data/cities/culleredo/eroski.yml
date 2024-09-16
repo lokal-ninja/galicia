@@ -1,11 +1,11 @@
 id: 300066872
-type: way
+type: node
 latitude: 43.31423
 longitude: -8.37382
 postcode: "15670"
 city: Culleredo
-street: "Avenida Ribados"
-housenumber: 
+street: Avenida Ribados
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

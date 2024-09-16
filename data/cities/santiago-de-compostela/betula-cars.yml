@@ -1,11 +1,11 @@
 id: 552380047
-type: way
+type: node
 latitude: 42.9036
 longitude: -8.51801
 postcode: "15703"
 city: Santiago de Compostela
-street: "Avenida do Cruceiro da Coruña"
-housenumber: 252
+street: Avenida do Cruceiro da Coruña
+housenumber: "252"
 phone: ""
 opening_hours: ""
 website: ""

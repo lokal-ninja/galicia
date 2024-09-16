@@ -1,11 +1,11 @@
 id: 476730540
-type: way
+type: node
 latitude: 42.90537
 longitude: -8.51167
 postcode: "15707"
 city: Santiago de Compostela
-street: "Rúa de Eslovaquia"
-housenumber: 8
+street: Rúa de Eslovaquia
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

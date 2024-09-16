@@ -4,8 +4,9 @@ latitude: 43.48366
 longitude: -8.20459
 postcode: "15406"
 city: Ferrol
-street: "Rúa Armada Española"
-housenumber: 18
-phone: "+34 981 932928"
-opening_hours: "Tu-Th 09:30-13:30,16:00-19:00; Fr 09:30-19:30; Sa 08:30-14:00; Su,Mo,PH off"
-website: "https://www.peluqueriapatry.es/"
+street: Rúa Armada Española
+housenumber: "18"
+phone: +34 981 932928
+opening_hours: Tu-Th 09:30-13:30,16:00-19:00; Fr 09:30-19:30; Sa 08:30-14:00; Su,Mo,PH
+    off
+website: https://www.peluqueriapatry.es/

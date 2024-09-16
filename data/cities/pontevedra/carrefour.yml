@@ -1,11 +1,11 @@
 id: 679061056
-type: way
+type: node
 latitude: 42.41716
 longitude: -8.64638
 postcode: "36143"
 city: Pontevedra
-street: "Rúa San Blas"
-housenumber: 
+street: Rúa San Blas
+housenumber: ""
 phone: ""
-opening_hours: "9:00-22:00"
+opening_hours: 9:00-22:00
 website: ""

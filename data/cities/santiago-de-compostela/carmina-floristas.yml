@@ -1,11 +1,11 @@
 id: 552380012
-type: way
+type: node
 latitude: 42.90713
 longitude: -8.51622
 postcode: "15890"
 city: Santiago de Compostela
-street: "Rúa de Boisaca"
-housenumber: 9
+street: Rúa de Boisaca
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 335395957
-type: way
+type: node
 latitude: 43.27714
 longitude: -8.21572
 postcode: "15300"
 city: Betanzos
-street: "Avenida Juan García Naveira"
-housenumber: 
+street: Avenida Juan García Naveira
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

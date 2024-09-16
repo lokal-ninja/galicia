@@ -4,8 +4,8 @@ latitude: 43.49467
 longitude: -8.20777
 postcode: "15404"
 city: Ferrol
-street: "Estrada de Castela"
-housenumber: 377
-phone: "+34 981 310754"
-opening_hours: "Mo-Fr 09:00-13:30,16:00-20:00; Sa 09:30-13:30; Su,PH off"
+street: Estrada de Castela
+housenumber: "377"
+phone: +34 981 310754
+opening_hours: Mo-Fr 09:00-13:30,16:00-20:00; Sa 09:30-13:30; Su,PH off
 website: ""

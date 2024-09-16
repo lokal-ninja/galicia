@@ -4,8 +4,8 @@ latitude: 43.48946
 longitude: -8.21718
 postcode: "15404"
 city: Ferrol
-street: "Rúa República Arxentina"
-housenumber: 27
-phone: "+34 981 318 405"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-14:00; Aug 01-31: Sa off; Su,PH off"
-website: "https://www.pcbox.com/tienda-de-informatica/144/ferrol"
+street: Rúa República Arxentina
+housenumber: "27"
+phone: +34 981 318 405
+opening_hours: 'Mo-Fr 10:00-20:00; Sa 10:00-14:00; Aug 01-31: Sa off; Su,PH off'
+website: https://www.pcbox.com/tienda-de-informatica/144/ferrol

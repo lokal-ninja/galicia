@@ -4,8 +4,8 @@ latitude: 43.36499
 longitude: -8.40611
 postcode: "15004"
 city: A Coruña
-street: "Rúa Padre Feijoo"
-housenumber: 5
+street: Rúa Padre Feijoo
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 11:00-14:00,17:00-20:30"
-website: "http://www.vilaseco.net/"
+opening_hours: Mo-Fr 11:00-14:00,17:00-20:30
+website: http://www.vilaseco.net/

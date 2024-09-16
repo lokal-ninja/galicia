@@ -1,11 +1,11 @@
 id: 243082070
-type: way
+type: node
 latitude: 42.90066
 longitude: -8.51135
 postcode: "15707"
 city: Santiago de Compostela
-street: "Rúa de Amio"
-housenumber: 116
+street: Rúa de Amio
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

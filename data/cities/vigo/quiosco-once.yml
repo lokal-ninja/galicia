@@ -1,11 +1,11 @@
 id: 504565190
-type: way
+type: node
 latitude: 42.21452
 longitude: -8.74169
 postcode: "36210"
 city: Vigo
-street: "Rúa Manuel de Castro"
-housenumber: 
+street: Rúa Manuel de Castro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

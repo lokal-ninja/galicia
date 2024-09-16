@@ -4,8 +4,9 @@ latitude: 43.48614
 longitude: -8.20924
 postcode: "15406"
 city: Ferrol
-street: "Rúa Lepanto"
-housenumber: 3
-phone: "+34 981 330302"
-opening_hours: "PH off; Sep 16-Jun 14: Mo-Sa 09:00-15:00,17:00-21:00; Jun 15-Sep 15: Mo-Sa 09:00-15:00,17:30-21:30"
+street: Rúa Lepanto
+housenumber: "3"
+phone: +34 981 330302
+opening_hours: 'PH off; Sep 16-Jun 14: Mo-Sa 09:00-15:00,17:00-21:00; Jun 15-Sep 15:
+    Mo-Sa 09:00-15:00,17:30-21:30'
 website: ""

@@ -1,11 +1,11 @@
 id: 169969447
-type: way
+type: node
 latitude: 43.28996
 longitude: -8.37149
 postcode: "15180"
 city: Culleredo
-street: "Avenida de Alvedro"
-housenumber: 5
+street: Avenida de Alvedro
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; PH off"
-website: "https://coruna.thestyleoutlets.es/es"
+opening_hours: Mo-Sa 10:00-21:00; PH off
+website: https://coruna.thestyleoutlets.es/es

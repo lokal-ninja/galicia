@@ -1,11 +1,11 @@
 id: 226883966
-type: way
+type: node
 latitude: 43.32512
 longitude: -8.36354
 postcode: "15172"
 city: Oleiros
-street: "Avenida das Mariñas"
-housenumber: 275
+street: Avenida das Mariñas
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

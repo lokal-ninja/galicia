@@ -1,11 +1,11 @@
 id: 495956156
-type: way
+type: node
 latitude: 42.96963
 longitude: -9.19261
 postcode: "15270"
 city: Cee
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:45; Su 10:00-14:00"
+opening_hours: Mo-Sa 09:15-21:45; Su 10:00-14:00
 website: ""

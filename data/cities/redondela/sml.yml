@@ -4,8 +4,8 @@ latitude: 42.28549
 longitude: -8.60832
 postcode: "36800"
 city: Redondela
-street: "Praza Santiago Apóstolo"
-housenumber: 3
-phone: "+34 986 40 10 90"
-opening_hours: "Mo-Sa 10:00-13:30, 16:30-20:30"
-website: "https://www.smltiendas.com/"
+street: Praza Santiago Apóstolo
+housenumber: "3"
+phone: +34 986 40 10 90
+opening_hours: Mo-Sa 10:00-13:30, 16:30-20:30
+website: https://www.smltiendas.com/

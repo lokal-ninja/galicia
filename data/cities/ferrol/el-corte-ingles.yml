@@ -1,11 +1,11 @@
 id: 370349439
-type: way
+type: node
 latitude: 43.4831
 longitude: -8.23639
 postcode: "15402"
 city: Ferrol
-street: "Rúa María"
-housenumber: 56
+street: Rúa María
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

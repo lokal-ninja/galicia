@@ -1,11 +1,11 @@
 id: 176258331
-type: way
+type: node
 latitude: 43.51563
 longitude: -8.18901
 postcode: ""
 city: Narón
-street: "Estrada de Cedeira"
-housenumber: 114
-phone: "+34 981 384165;+34 689 045280"
+street: Estrada de Cedeira
+housenumber: "114"
+phone: +34 981 384165;+34 689 045280
 opening_hours: ""
-website: "https://www.tallersaavedraycastro.com/"
+website: https://www.tallersaavedraycastro.com/

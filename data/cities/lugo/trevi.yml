@@ -4,8 +4,8 @@ latitude: 43.01678
 longitude: -7.56009
 postcode: "27003"
 city: Lugo
-street: "Avenida da Coruña"
-housenumber: 64
-phone: "+34 982225242"
+street: Avenida da Coruña
+housenumber: "64"
+phone: +34 982225242
 opening_hours: ""
-website: "http://trevi.cenor.es/"
+website: http://trevi.cenor.es/

@@ -4,8 +4,9 @@ latitude: 43.48395
 longitude: -8.22715
 postcode: "15403"
 city: Ferrol
-street: "Rúa Soto"
-housenumber: 3
-phone: "+34 981 07 00 24"
-opening_hours: "Mo 09:30-13:30; Mo-Th 15:00-19:00; We 15:00-19:00; Fr 15:00-20:00; Sa 09:00-14:00"
+street: Rúa Soto
+housenumber: "3"
+phone: +34 981 07 00 24
+opening_hours: Mo 09:30-13:30; Mo-Th 15:00-19:00; We 15:00-19:00; Fr 15:00-20:00;
+    Sa 09:00-14:00
 website: ""

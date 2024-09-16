@@ -1,11 +1,11 @@
 id: 549027677
-type: way
+type: node
 latitude: 42.78459
 longitude: -8.17028
 postcode: ""
 city: Vila de Cruces
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.26423
 longitude: -8.7821
 postcode: "36940"
 city: Cangas
-street: "Eirado do Sinal"
-housenumber: 5
+street: Eirado do Sinal
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:45"
-website: "eroski.es"
+opening_hours: Mo-Sa 09:15-21:45
+website: https://eroski.es/

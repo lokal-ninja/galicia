@@ -1,11 +1,11 @@
 id: 699900916
-type: way
+type: node
 latitude: 42.1745
 longitude: -8.62967
 postcode: "36419"
 city: Mos
-street: "Avenida de Sanguiñeda"
-housenumber: 36
+street: Avenida de Sanguiñeda
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

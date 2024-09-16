@@ -1,11 +1,11 @@
 id: 243080160
-type: way
+type: node
 latitude: 42.89991
 longitude: -8.50984
 postcode: "15707"
 city: Santiago de Compostela
-street: "Rúa de Malta"
-housenumber: 3
+street: Rúa de Malta
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

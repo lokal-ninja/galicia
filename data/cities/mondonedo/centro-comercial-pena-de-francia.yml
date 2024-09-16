@@ -1,11 +1,11 @@
 id: 345805227
-type: way
+type: node
 latitude: 43.42783
 longitude: -7.36438
 postcode: ""
 city: Mondoñedo
-street: "Rúa Peña de Francia"
-housenumber: 1
+street: Rúa Peña de Francia
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

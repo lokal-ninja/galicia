@@ -4,8 +4,8 @@ latitude: 42.87335
 longitude: -8.55211
 postcode: "15706"
 city: Santiago de Compostela
-street: "Praza de Vigo"
-housenumber: 2
-phone: "+34 881 978533"
-opening_hours: "Mo-Fr 10:00-13:30,16:30-20:30; Sa 10:00-14:00"
-website: "http://www.starcenter.es/"
+street: Praza de Vigo
+housenumber: "2"
+phone: +34 881 978533
+opening_hours: Mo-Fr 10:00-13:30,16:30-20:30; Sa 10:00-14:00
+website: http://www.starcenter.es/

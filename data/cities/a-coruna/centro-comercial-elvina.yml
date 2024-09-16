@@ -1,11 +1,11 @@
 id: 858963653
-type: way
+type: node
 latitude: 43.34837
 longitude: -8.40571
 postcode: "15008"
 city: A Coruña
-street: "Avenida Salvador de Madariaga"
-housenumber: 9
+street: Avenida Salvador de Madariaga
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

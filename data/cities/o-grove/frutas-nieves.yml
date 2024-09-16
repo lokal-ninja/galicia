@@ -1,11 +1,11 @@
 id: 237949246
-type: way
+type: node
 latitude: 42.49428
 longitude: -8.86467
 postcode: "36980"
 city: O Grove
-street: "Calle De Concepcion Arenal"
-housenumber: 30
-phone: "+34 986 732069"
+street: Calle De Concepcion Arenal
+housenumber: "30"
+phone: +34 986 732069
 opening_hours: ""
-website: "https://www.frutasnieves.com/"
+website: https://www.frutasnieves.com/

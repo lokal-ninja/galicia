@@ -1,11 +1,11 @@
 id: 489791856
-type: way
+type: node
 latitude: 43.42852
 longitude: -8.24531
 postcode: "15624"
 city: Ares
-street: "Rúa Médico Ramón Pimentel"
-housenumber: 2
+street: Rúa Médico Ramón Pimentel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,15:30-20:00"
+opening_hours: Mo-Fr 09:30-13:30,15:30-20:00
 website: ""

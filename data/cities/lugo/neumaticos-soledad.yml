@@ -1,11 +1,11 @@
 id: 258560888
-type: way
+type: node
 latitude: 43.0455
 longitude: -7.55983
 postcode: ""
 city: Lugo
-street: "Rúa das Mercadorías"
-housenumber: 216
+street: Rúa das Mercadorías
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

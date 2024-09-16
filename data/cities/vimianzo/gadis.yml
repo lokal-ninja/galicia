@@ -4,8 +4,8 @@ latitude: 43.10958
 longitude: -9.03326
 postcode: "15129"
 city: Vimianzo
-street: "Rúa Castelao"
-housenumber: 14
+street: Rúa Castelao
+housenumber: "14"
 phone: ""
-opening_hours: "Jul-Aug: Mo-Sa 09:30-14:00,17:30-21:00; Sep-Jun: Mo-Sa 09:30-14:00,17:00-20:30"
+opening_hours: 'Jul-Aug: Mo-Sa 09:30-14:00,17:30-21:00; Sep-Jun: Mo-Sa 09:30-14:00,17:00-20:30'
 website: ""

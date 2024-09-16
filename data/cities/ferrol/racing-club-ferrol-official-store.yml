@@ -4,8 +4,8 @@ latitude: 43.48296
 longitude: -8.23577
 postcode: "15402"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 126
-phone: "+34 981 359345"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:00; Sa 10:00-13:30; Su off"
-website: "https://store.racingclubferrol.net/"
+street: Rúa Real
+housenumber: "126"
+phone: +34 981 359345
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:00; Sa 10:00-13:30; Su off
+website: https://store.racingclubferrol.net/

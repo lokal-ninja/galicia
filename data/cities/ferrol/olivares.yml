@@ -4,8 +4,8 @@ latitude: 43.48326
 longitude: -8.23472
 postcode: "15402"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 141
+street: Rúa Real
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00, 17:00-20:30"
-website: "https://www.olivaresshop.es/"
+opening_hours: Mo-Sa 10:00-14:00, 17:00-20:30
+website: https://www.olivaresshop.es/

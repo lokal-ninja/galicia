@@ -4,8 +4,8 @@ latitude: 43.48291
 longitude: -8.23556
 postcode: "15402"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 161
-phone: "+34 981350816"
-opening_hours: "Mo-Fr 11:00-14:00,17:00-20:30; Sa 11:00-14:00,17:30-20:30; Su 12:00-14:00,17:30-20:00"
-website: "https://www.hansel.es/"
+street: Rúa Real
+housenumber: "161"
+phone: +34 981350816
+opening_hours: Mo-Fr 11:00-14:00,17:00-20:30; Sa 11:00-14:00,17:30-20:30; Su 12:00-14:00,17:30-20:00
+website: https://www.hansel.es/

@@ -4,8 +4,8 @@ latitude: 42.28354
 longitude: -8.60605
 postcode: "36800"
 city: Redondela
-street: "Rúa Os Eidos"
-housenumber: 10
-phone: "+34 647 90 21 41"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00"
-website: "https://noveventanas.com/"
+street: Rúa Os Eidos
+housenumber: "10"
+phone: +34 647 90 21 41
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00
+website: https://noveventanas.com/

@@ -1,11 +1,11 @@
 id: 253315894
-type: way
+type: node
 latitude: 43.34386
 longitude: -8.42869
 postcode: "15008"
 city: A Coruña
-street: "Estrada dos Baños de Arteixo"
-housenumber: 43
+street: Estrada dos Baños de Arteixo
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.decathlon.es

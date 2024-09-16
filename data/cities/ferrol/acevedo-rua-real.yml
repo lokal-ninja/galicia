@@ -4,8 +4,8 @@ latitude: 43.48329
 longitude: -8.23463
 postcode: "15402"
 city: Ferrol
-street: "Rúa Real"
-housenumber: 139
+street: Rúa Real
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Fr 09:50-13:30, 17:00-20:30; Sa 10:00-14:00"
-website: "http://www.acevedoferrol.com/"
+opening_hours: Mo-Fr 09:50-13:30, 17:00-20:30; Sa 10:00-14:00
+website: http://www.acevedoferrol.com/

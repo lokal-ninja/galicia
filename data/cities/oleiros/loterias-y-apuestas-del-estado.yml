@@ -1,11 +1,11 @@
 id: 542738070
-type: way
+type: node
 latitude: 43.31417
 longitude: -8.33747
 postcode: ""
 city: Oleiros
-street: "Avenida de Salvador Allende"
-housenumber: 102
+street: Avenida de Salvador Allende
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

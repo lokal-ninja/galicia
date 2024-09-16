@@ -1,11 +1,11 @@
 id: 798153434
-type: way
+type: node
 latitude: 43.36779
 longitude: -8.40078
 postcode: "15003"
 city: A Coruña
-street: "Avenida Porto da Coruña"
-housenumber: 3
+street: Avenida Porto da Coruña
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.grupocomar.com/las-piezas/cantones-village/"
+website: https://www.grupocomar.com/las-piezas/cantones-village/

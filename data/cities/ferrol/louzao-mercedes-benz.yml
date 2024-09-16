@@ -1,11 +1,11 @@
 id: 479762480
-type: way
+type: node
 latitude: 43.50903
 longitude: -8.21767
 postcode: "15405"
 city: Ferrol
-street: "Estrada de San Pedro"
-housenumber: 303
-phone: "+34 981 10 28 00"
+street: Estrada de San Pedro
+housenumber: "303"
+phone: +34 981 10 28 00
 opening_hours: ""
-website: "https://louzao.com/"
+website: https://louzao.com/

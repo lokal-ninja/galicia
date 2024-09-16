@@ -4,8 +4,8 @@ latitude: 42.88179
 longitude: -8.54233
 postcode: ""
 city: Santiago de Compostela
-street: "Rúa da Algalia de Arriba"
-housenumber: 10
+street: Rúa da Algalia de Arriba
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:00; Sa 10:00-13:30; Su off"
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:00; Sa 10:00-13:30; Su off
 website: ""

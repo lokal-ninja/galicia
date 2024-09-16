@@ -4,8 +4,9 @@ latitude: 43.49004
 longitude: -8.20133
 postcode: ""
 city: Narón
-street: "Avenida de Cataluña"
-housenumber: 41
-phone: "+34 881 932023"
-opening_hours: "Mo-We 09:30-15:00; Th 09:30-15:00,19:00-21:00; Fr 09:30-20:00; Sa 09:30-15:30; En invierno abre los jueves ininterrupidamente"
-website: "https://www.unica-s.com/"
+street: Avenida de Cataluña
+housenumber: "41"
+phone: +34 881 932023
+opening_hours: Mo-We 09:30-15:00; Th 09:30-15:00,19:00-21:00; Fr 09:30-20:00; Sa 09:30-15:30;
+    "En invierno abre los jueves ininterrupidamente"
+website: https://www.unica-s.com/

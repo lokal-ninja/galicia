@@ -1,11 +1,11 @@
 id: 213865478
-type: way
+type: node
 latitude: 43.34619
 longitude: -8.25587
 postcode: "15160"
 city: Sada
-street: "Rúa da Lagoa"
-housenumber: 23
+street: Rúa da Lagoa
+housenumber: "23"
 phone: ""
-opening_hours: "Sep-Jun: Mo-Sa 10:00-21:00; Jul-Aug: Mo-Sa 09:45-21:45"
+opening_hours: 'Sep-Jun: Mo-Sa 10:00-21:00; Jul-Aug: Mo-Sa 09:45-21:45'
 website: ""

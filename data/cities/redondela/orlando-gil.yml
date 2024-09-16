@@ -1,11 +1,11 @@
 id: 1164830547
-type: way
+type: node
 latitude: 42.28298
 longitude: -8.60706
 postcode: "36800"
 city: Redondela
-street: "Rúa Figueiral"
-housenumber: 20
+street: Rúa Figueiral
+housenumber: "20"
 phone: "+34615583562"
 opening_hours: ""
 website: ""

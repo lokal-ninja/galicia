@@ -4,8 +4,8 @@ latitude: 42.28155
 longitude: -8.60892
 postcode: "36800"
 city: Redondela
-street: "Rúa Pai Crespo"
-housenumber: 3
-phone: "+34 986 40 46 93"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00"
+street: Rúa Pai Crespo
+housenumber: "3"
+phone: +34 986 40 46 93
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00
 website: ""

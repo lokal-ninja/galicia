@@ -1,11 +1,11 @@
 id: 802739087
-type: way
+type: node
 latitude: 42.55465
 longitude: -8.99467
 postcode: "15960"
 city: Ribeira
-street: "Rúa Alcalde Fernández Bermúdez"
-housenumber: 12
-phone: "+34 981872651"
-opening_hours: "Mo-Fr 08:30-13:30,16:00-20:00; Sa 09:30-13:30"
+street: Rúa Alcalde Fernández Bermúdez
+housenumber: "12"
+phone: +34 981872651
+opening_hours: Mo-Fr 08:30-13:30,16:00-20:00; Sa 09:30-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.88127
 longitude: -8.53287
 postcode: "15707"
 city: Santiago de Compostela
-street: "Avenida de Lugo"
-housenumber: 32
+street: Avenida de Lugo
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.micromedia.es"
+website: https://www.micromedia.es

@@ -1,11 +1,11 @@
 id: 302469194
-type: way
+type: node
 latitude: 43.43523
 longitude: -8.19557
 postcode: "15627"
 city: Fene
-street: "Estrada de Mugardos"
-housenumber: 13
+street: Estrada de Mugardos
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

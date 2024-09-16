@@ -1,11 +1,11 @@
 id: 264131027
-type: way
+type: node
 latitude: 43.49393
 longitude: -8.23527
 postcode: "15405"
 city: Ferrol
-street: "Estrada de Xoane"
-housenumber: 87
+street: Estrada de Xoane
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

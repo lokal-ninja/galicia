@@ -4,8 +4,8 @@ latitude: 42.2815
 longitude: -8.60943
 postcode: "36800"
 city: Redondela
-street: "Rúa José Regojo"
-housenumber: 7
-phone: "+34 986 12 10 32"
-opening_hours: "Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:30; Sa 17:00-20:00"
-website: "https://cocoycolet.com"
+street: Rúa José Regojo
+housenumber: "7"
+phone: +34 986 12 10 32
+opening_hours: Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:30; Sa 17:00-20:00
+website: https://cocoycolet.com

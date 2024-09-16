@@ -1,11 +1,11 @@
 id: 489793487
-type: way
+type: node
 latitude: 43.4275
 longitude: -8.24354
 postcode: "15624"
 city: Ares
-street: "Avenida de Mugardos"
-housenumber: 6
+street: Avenida de Mugardos
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

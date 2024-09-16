@@ -1,11 +1,11 @@
 id: 849897217
-type: way
+type: node
 latitude: 43.18911
 longitude: -8.47384
 postcode: "15185"
 city: Cerceda
-street: "Avenida de Galicia"
-housenumber: 22
-phone: "+34 981686053"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://eroski.es"
+street: Avenida de Galicia
+housenumber: "22"
+phone: +34 981686053
+opening_hours: Mo-Sa 09:00-20:00
+website: https://eroski.es

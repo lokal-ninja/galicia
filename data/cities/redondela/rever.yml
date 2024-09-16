@@ -4,8 +4,8 @@ latitude: 42.27885
 longitude: -8.61098
 postcode: "36800"
 city: Redondela
-street: "Praza de Ponteareas"
-housenumber: 11
-phone: "+34 986 40 01 47"
-opening_hours: "Mo-Sa 09:00-13:30; Mo-Fr 16:30-20:00"
-website: "http://rever.es/"
+street: Praza de Ponteareas
+housenumber: "11"
+phone: +34 986 40 01 47
+opening_hours: Mo-Sa 09:00-13:30; Mo-Fr 16:30-20:00
+website: http://rever.es/

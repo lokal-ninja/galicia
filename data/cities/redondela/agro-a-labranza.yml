@@ -4,8 +4,8 @@ latitude: 42.27921
 longitude: -8.61245
 postcode: "36800"
 city: Redondela
-street: "Estrada de Vigo"
-housenumber: 10
-phone: "+34 667 82 78 25"
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:00; Sa 09:30-13:30"
+street: Estrada de Vigo
+housenumber: "10"
+phone: +34 667 82 78 25
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:00; Sa 09:30-13:30
 website: ""

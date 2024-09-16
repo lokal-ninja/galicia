@@ -4,8 +4,8 @@ latitude: 42.23244
 longitude: -8.70283
 postcode: "36205"
 city: Vigo
-street: "Rúa Aragón"
-housenumber: 22
+street: Rúa Aragón
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

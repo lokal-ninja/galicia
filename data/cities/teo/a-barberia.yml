@@ -4,8 +4,8 @@ latitude: 42.83443
 longitude: -8.54641
 postcode: "15883"
 city: Teo
-street: "Travesía de Montouto"
-housenumber: 22
-phone: "+34 658407284"
-opening_hours: "Tu-Fr 10:00-14:00,16:00-21:00; Sa 09:00-16:00"
-website: "https://www.abarberia.es"
+street: Travesía de Montouto
+housenumber: "22"
+phone: +34 658407284
+opening_hours: Tu-Fr 10:00-14:00,16:00-21:00; Sa 09:00-16:00
+website: https://www.abarberia.es

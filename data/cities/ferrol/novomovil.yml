@@ -1,11 +1,11 @@
 id: 473879295
-type: way
+type: node
 latitude: 43.48915
 longitude: -8.19888
 postcode: ""
 city: Ferrol
-street: "Avenida do Mar"
-housenumber: 150
+street: Avenida do Mar
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

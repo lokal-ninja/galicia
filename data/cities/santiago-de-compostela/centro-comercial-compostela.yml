@@ -1,11 +1,11 @@
 id: 77432615
-type: way
+type: node
 latitude: 42.8627
 longitude: -8.54461
 postcode: "15702"
 city: Santiago de Compostela
-street: "Rúa do Restollal"
-housenumber: 50
+street: Rúa do Restollal
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
+opening_hours: Mo-Sa 10:00-22:00
 website: ""

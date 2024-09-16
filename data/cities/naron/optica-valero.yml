@@ -4,8 +4,8 @@ latitude: 43.50082
 longitude: -8.19066
 postcode: ""
 city: Narón
-street: "Rúa Médico Valero"
-housenumber: 22
-phone: "+34 981 944828"
-opening_hours: "Mo-Fr 09:30-20:30; Sa 10:00-14:00; Su,PH off"
-website: "https://opticavalero.com/"
+street: Rúa Médico Valero
+housenumber: "22"
+phone: +34 981 944828
+opening_hours: Mo-Fr 09:30-20:30; Sa 10:00-14:00; Su,PH off
+website: https://opticavalero.com/

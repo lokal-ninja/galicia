@@ -1,11 +1,11 @@
 id: 681698502
-type: way
+type: node
 latitude: 43.45096
 longitude: -8.17009
 postcode: "15500"
 city: Fene
-street: "Rúa Catavento"
+street: Rúa Catavento
 housenumber: B2, 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "https://www.ferreteriacartelle.es/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-14:00
+website: https://www.ferreteriacartelle.es/

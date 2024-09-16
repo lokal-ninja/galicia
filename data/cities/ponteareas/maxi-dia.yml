@@ -1,11 +1,11 @@
 id: 146417126
-type: way
+type: node
 latitude: 42.17731
 longitude: -8.50074
 postcode: "36860"
 city: Ponteareas
-street: "Rúa Real"
-housenumber: 79
+street: Rúa Real
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es/"
+website: https://www.dia.es/

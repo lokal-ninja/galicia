@@ -1,11 +1,11 @@
 id: 215340965
-type: way
+type: node
 latitude: 43.32396
 longitude: -8.32297
 postcode: "15176"
 city: Oleiros
-street: "Avenida das Mariñas"
-housenumber: 59
-phone: "+34 697 87 08 38"
+street: Avenida das Mariñas
+housenumber: "59"
+phone: +34 697 87 08 38
 opening_hours: ""
 website: ""

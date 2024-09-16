@@ -1,11 +1,11 @@
 id: 400514146
-type: way
+type: node
 latitude: 43.34149
 longitude: -8.28021
 postcode: "15160"
 city: Sada
-street: "Osedo"
-housenumber: 23
+street: Osedo
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

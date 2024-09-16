@@ -1,11 +1,11 @@
 id: 761365218
-type: way
+type: node
 latitude: 42.55474
 longitude: -8.99094
 postcode: "15960"
 city: Santa Uxía de Ribeira
-street: "Praza de Vigo"
-housenumber: 3
-phone: "+34 661 886 958"
+street: Praza de Vigo
+housenumber: "3"
+phone: +34 661 886 958
 opening_hours: ""
-website: "https://smartestudio.es/"
+website: https://smartestudio.es/

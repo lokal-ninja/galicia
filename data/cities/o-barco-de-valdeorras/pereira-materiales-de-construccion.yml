@@ -1,11 +1,11 @@
 id: 307925885
-type: way
+type: node
 latitude: 42.41894
 longitude: -6.99446
 postcode: "32300"
 city: O Barco de Valdeorras
-street: "Rúa Río Miño"
-housenumber: 9
-phone: "+34 988 320 985"
+street: Rúa Río Miño
+housenumber: "9"
+phone: +34 988 320 985
 opening_hours: ""
-website: "https://pereiramaterialesdeconstruccion.net"
+website: https://pereiramaterialesdeconstruccion.net

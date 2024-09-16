@@ -1,11 +1,11 @@
 id: 193117469
-type: way
+type: node
 latitude: 42.87974
 longitude: -8.54508
 postcode: ""
 city: Santiago de Compostela
-street: "Rúa de Fonseca"
-housenumber: 3
+street: Rúa de Fonseca
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

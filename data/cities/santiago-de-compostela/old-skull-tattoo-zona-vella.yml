@@ -4,8 +4,8 @@ latitude: 42.87768
 longitude: -8.54613
 postcode: "15705"
 city: Santiago de Compostela
-street: "Avenida de Figueroa"
-housenumber: 4
+street: Avenida de Figueroa
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-14:00,16:00-20:30; Sa 11:00-14:00"
+opening_hours: Mo-Fr 11:00-14:00,16:00-20:30; Sa 11:00-14:00
 website: ""

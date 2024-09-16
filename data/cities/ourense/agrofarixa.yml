@@ -4,8 +4,8 @@ latitude: 42.32223
 longitude: -7.86518
 postcode: "32005"
 city: Ourense
-street: "Rúa da Ermida"
-housenumber: 3
-phone: "+34 655 72 93 11"
-opening_hours: "Mo-Fr 09:00-13:30, 16:00-21:00; Sa 09:00-14:00"
+street: Rúa da Ermida
+housenumber: "3"
+phone: +34 655 72 93 11
+opening_hours: Mo-Fr 09:00-13:30, 16:00-21:00; Sa 09:00-14:00
 website: ""

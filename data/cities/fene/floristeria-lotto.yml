@@ -1,11 +1,11 @@
 id: 488837414
-type: way
+type: node
 latitude: 43.47319
 longitude: -8.16158
 postcode: "15500"
 city: Fene
-street: "Rúa da Fraga"
-housenumber: 1
+street: Rúa da Fraga
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

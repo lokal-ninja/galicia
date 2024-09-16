@@ -1,11 +1,11 @@
 id: 1056907087
-type: way
+type: node
 latitude: 42.90857
 longitude: -8.01752
 postcode: "15800"
 city: Melide
-street: "Ronda de Pontevedra"
-housenumber: 80
+street: Ronda de Pontevedra
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

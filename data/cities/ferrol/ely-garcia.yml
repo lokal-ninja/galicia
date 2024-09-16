@@ -4,8 +4,8 @@ latitude: 43.493
 longitude: -8.213
 postcode: ""
 city: Ferrol
-street: "Estrada do Mestre García Niebla"
-housenumber: 5
-phone: "+34 881309330"
-opening_hours: "Tu-Th,Sa 09:00-14:00; Fr 09:30-19:30; Mo,Su,PH off"
-website: "https://www.salonelygarcia.es/"
+street: Estrada do Mestre García Niebla
+housenumber: "5"
+phone: +34 881309330
+opening_hours: Tu-Th,Sa 09:00-14:00; Fr 09:30-19:30; Mo,Su,PH off
+website: https://www.salonelygarcia.es/

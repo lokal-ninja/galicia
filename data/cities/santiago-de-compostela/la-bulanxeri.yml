@@ -4,8 +4,8 @@ latitude: 42.87221
 longitude: -8.55074
 postcode: ""
 city: Santiago de Compostela
-street: "Rúa de Santiago de Chile"
-housenumber: 16
-phone: "+34 881 978887"
-opening_hours: "Mo-Fr 08:30-15:30,16:30-21:00; Sa,Su,PH 09:00-15:00"
-website: "http://labulanxeri.es/"
+street: Rúa de Santiago de Chile
+housenumber: "16"
+phone: +34 881 978887
+opening_hours: Mo-Fr 08:30-15:30,16:30-21:00; Sa,Su,PH 09:00-15:00
+website: http://labulanxeri.es/

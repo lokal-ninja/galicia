@@ -1,11 +1,11 @@
 id: 548024801
-type: way
+type: node
 latitude: 43.30529
 longitude: -8.50744
 postcode: "15142"
 city: Arteixo
-street: "Rúa Farmacéutico Manuel Fernández Llamazares"
-housenumber: 5
-phone: "+34 634292575"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Rúa Farmacéutico Manuel Fernández Llamazares
+housenumber: "5"
+phone: +34 634292575
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

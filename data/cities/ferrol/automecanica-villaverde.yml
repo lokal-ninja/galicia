@@ -4,8 +4,8 @@ latitude: 43.49515
 longitude: -8.21879
 postcode: "15405"
 city: Ferrol
-street: "Rúa Cabalo Branco"
-housenumber: 33
-phone: "+34 981 330770"
-opening_hours: "Mo-Fr 09:00-13:30,15:30-20:00; Sa,Su,PH off"
-website: "https://www.automecanicavillaverde.es/"
+street: Rúa Cabalo Branco
+housenumber: "33"
+phone: +34 981 330770
+opening_hours: Mo-Fr 09:00-13:30,15:30-20:00; Sa,Su,PH off
+website: https://www.automecanicavillaverde.es/

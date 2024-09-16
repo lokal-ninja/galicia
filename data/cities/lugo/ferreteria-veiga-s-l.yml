@@ -4,8 +4,8 @@ latitude: 43.01561
 longitude: -7.56561
 postcode: "27004"
 city: Lugo
-street: "Rúa Ourense"
-housenumber: 78
-phone: "+34 982215647"
-opening_hours: "Mo-Fr 09:00-13:30,15:30-19:30"
-website: "https://www.ferreteriaveiga.com/"
+street: Rúa Ourense
+housenumber: "78"
+phone: +34 982215647
+opening_hours: Mo-Fr 09:00-13:30,15:30-19:30
+website: https://www.ferreteriaveiga.com/

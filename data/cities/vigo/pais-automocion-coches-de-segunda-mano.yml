@@ -4,8 +4,8 @@ latitude: 42.21569
 longitude: -8.73997
 postcode: "36210"
 city: Vigo
-street: "Avenida da Florida"
-housenumber: 97
-phone: "+34605043535;605043535"
-opening_hours: "Mo-Sa 09:30-13:30, Mo-Fr 15:30-19:30,09:30-13:30,15:30-19:30; Sa 09:30-13:30"
-website: "https://paisautomocion.com/"
+street: Avenida da Florida
+housenumber: "97"
+phone: +34605043535;605043535
+opening_hours: Mo-Sa 09:30-13:30, Mo-Fr 15:30-19:30,09:30-13:30,15:30-19:30; Sa 09:30-13:30
+website: https://paisautomocion.com/

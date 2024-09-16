@@ -4,8 +4,8 @@ latitude: 42.28107
 longitude: -8.61098
 postcode: "36800"
 city: Redondela
-street: "Avenida Ernestina Otero"
-housenumber: 2
-phone: "+34 986 40 51 56"
-opening_hours: "Mo-Sa 09:00-13:30,17:00-19:30"
-website: "http://www.printeco.es/"
+street: Avenida Ernestina Otero
+housenumber: "2"
+phone: +34 986 40 51 56
+opening_hours: Mo-Sa 09:00-13:30,17:00-19:30
+website: http://www.printeco.es/

@@ -1,11 +1,11 @@
 id: 397559479
-type: way
+type: node
 latitude: 42.6004
 longitude: -8.9356
 postcode: ""
 city: A Pobra do Caramiñal
-street: "Paseo do Areal"
-housenumber: 7
-phone: "+34 981 830 130"
-opening_hours: "Mo-Sa 09:15-21:30; Su off"
+street: Paseo do Areal
+housenumber: "7"
+phone: +34 981 830 130
+opening_hours: Mo-Sa 09:15-21:30; Su off
 website: ""

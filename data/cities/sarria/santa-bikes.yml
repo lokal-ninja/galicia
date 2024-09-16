@@ -4,8 +4,8 @@ latitude: 42.77579
 longitude: -7.40665
 postcode: "27600"
 city: Sarria
-street: "Rúa Da Liberdade"
-housenumber: 192
-phone: "+34 621621744"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00"
-website: "https://www.santabikes.es/"
+street: Rúa Da Liberdade
+housenumber: "192"
+phone: +34 621621744
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00
+website: https://www.santabikes.es/

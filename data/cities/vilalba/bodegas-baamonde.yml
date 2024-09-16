@@ -1,11 +1,11 @@
 id: 312644394
-type: way
+type: node
 latitude: 43.29511
 longitude: -7.68096
 postcode: "27800"
 city: Vilalba
-street: "Rúa de Galicia"
-housenumber: 59
-phone: "+34 982 510 771"
-opening_hours: "Mo-Fr 09:30-20:30"
+street: Rúa de Galicia
+housenumber: "59"
+phone: +34 982 510 771
+opening_hours: Mo-Fr 09:30-20:30
 website: ""

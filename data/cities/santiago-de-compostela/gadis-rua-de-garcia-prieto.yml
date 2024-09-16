@@ -4,8 +4,8 @@ latitude: 42.86987
 longitude: -8.55292
 postcode: "15706"
 city: Santiago de Compostela
-street: "Rúa de García Prieto"
-housenumber: 10
+street: Rúa de García Prieto
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,17:00-21:00"
+opening_hours: Mo-Sa 10:00-14:00,17:00-21:00
 website: ""

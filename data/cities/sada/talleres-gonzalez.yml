@@ -1,11 +1,11 @@
 id: 260535217
-type: way
+type: node
 latitude: 43.31877
 longitude: -8.29763
 postcode: "15160"
 city: Sada
-street: "Coiro"
-housenumber: 35
+street: Coiro
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

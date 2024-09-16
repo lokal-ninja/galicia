@@ -1,11 +1,11 @@
 id: 193319735
-type: way
+type: node
 latitude: 42.87906
 longitude: -8.54506
 postcode: ""
 city: Santiago de Compostela
-street: "Rúa do Franco"
-housenumber: 9
+street: Rúa do Franco
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

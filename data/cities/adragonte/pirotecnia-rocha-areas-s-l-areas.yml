@@ -1,11 +1,11 @@
 id: 1152984570
-type: way
+type: node
 latitude: 43.29513
 longitude: -8.13516
 postcode: "15314"
 city: Adragonte
-street: "Areas"
-housenumber: 53
+street: Areas
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 264209112
-type: way
+type: node
 latitude: 43.46588
 longitude: -8.18747
 postcode: "15528"
 city: Fene
-street: "Rúa Pablo Ares Feal"
-housenumber: 5
+street: Rúa Pablo Ares Feal
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

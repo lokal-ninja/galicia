@@ -1,11 +1,11 @@
 id: 177479985
-type: way
+type: node
 latitude: 43.5366
 longitude: -8.18983
 postcode: "15578"
 city: Narón
-street: "Avenida dos Ceramistas"
-housenumber: 11
+street: Avenida dos Ceramistas
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

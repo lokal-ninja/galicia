@@ -1,11 +1,11 @@
 id: 562712355
-type: way
+type: node
 latitude: 43.44324
 longitude: -8.25449
 postcode: "15624"
 city: Ares
-street: "Avenida de Mugardos"
-housenumber: 98
-phone: "+34 981 47 08 50"
-opening_hours: "Mo-Su 06:00-15:00"
+street: Avenida de Mugardos
+housenumber: "98"
+phone: +34 981 47 08 50
+opening_hours: Mo-Su 06:00-15:00
 website: ""

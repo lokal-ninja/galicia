@@ -4,8 +4,8 @@ latitude: 42.28252
 longitude: -8.60821
 postcode: "36800"
 city: Redondela
-street: "Rúa do Adro"
-housenumber: 32
-phone: "+34 986 07 87 59"
-opening_hours: "Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:00"
-website: "https://www.susuela.com/"
+street: Rúa do Adro
+housenumber: "32"
+phone: +34 986 07 87 59
+opening_hours: Mo-Sa 10:00-13:30; Mo-Fr 16:30-20:00
+website: https://www.susuela.com/

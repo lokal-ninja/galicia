@@ -4,8 +4,9 @@ latitude: 43.49137
 longitude: -8.20293
 postcode: "15570"
 city: Narón
-street: "Estrada da Gándara"
-housenumber: 71
-phone: "+34 690 914514"
-opening_hours: "Mo,We-Fr 10:30-13:15,17:00-20:00; Tu 10:30-13:15,17:30-20:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.bellalolashop.com/"
+street: Estrada da Gándara
+housenumber: "71"
+phone: +34 690 914514
+opening_hours: Mo,We-Fr 10:30-13:15,17:00-20:00; Tu 10:30-13:15,17:30-20:00; Sa 10:00-14:00;
+    Su,PH off
+website: https://www.bellalolashop.com/

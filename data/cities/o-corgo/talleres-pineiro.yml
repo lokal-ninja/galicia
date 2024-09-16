@@ -1,11 +1,11 @@
 id: 220915676
-type: way
+type: node
 latitude: 42.94201
 longitude: -7.39785
 postcode: "27163"
 city: O corgo
-street: "Polígono Empresarial del Corgo"
+street: Polígono Empresarial del Corgo
 housenumber: 25 - 26
-phone: "+34 982304420"
+phone: +34 982304420
 opening_hours: ""
-website: "http://www.tallerespiñeiro.com/"
+website: http://www.tallerespiñeiro.com/

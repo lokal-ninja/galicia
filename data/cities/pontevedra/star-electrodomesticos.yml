@@ -4,8 +4,8 @@ latitude: 42.42878
 longitude: -8.64438
 postcode: "36001"
 city: Pontevedra
-street: "Praza de Galicia"
-housenumber: 3
+street: Praza de Galicia
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,16:30-20:30; Sa 10:00-14:00,17:00-20:30"
+opening_hours: Mo-Fr 10:00-13:30,16:30-20:30; Sa 10:00-14:00,17:00-20:30
 website: ""

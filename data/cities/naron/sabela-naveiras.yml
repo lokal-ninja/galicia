@@ -4,8 +4,9 @@ latitude: 43.49558
 longitude: -8.20146
 postcode: "15570"
 city: Narón
-street: "Rúa Finca Dopico"
-housenumber: 24
-phone: "+34 881 934865"
-opening_hours: "Mo-Th 09:00-14:00; Fr 09:00-13:00,16:00-20:00; Sa 08:00-14:00; Su,PH off"
+street: Rúa Finca Dopico
+housenumber: "24"
+phone: +34 881 934865
+opening_hours: Mo-Th 09:00-14:00; Fr 09:00-13:00,16:00-20:00; Sa 08:00-14:00; Su,PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 1222332266
-type: way
+type: node
 latitude: 42.91116
 longitude: -8.73413
 postcode: "15830"
 city: Negreira
-street: "Avenida de Castelao"
-housenumber: 
+street: Avenida de Castelao
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

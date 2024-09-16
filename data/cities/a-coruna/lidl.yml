@@ -1,11 +1,11 @@
 id: 766355335
-type: way
+type: node
 latitude: 43.34256
 longitude: -8.39871
 postcode: "15009"
 city: A Coruña
 street: ""
-housenumber: 12
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

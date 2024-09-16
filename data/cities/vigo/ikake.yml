@@ -4,8 +4,8 @@ latitude: 42.2145
 longitude: -8.73986
 postcode: "36210"
 city: Vigo
-street: "Rúa de Eugenio Kraff"
-housenumber: 26
-phone: "+34 986 211 787"
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:30; Sa 09:00-14:00"
+street: Rúa de Eugenio Kraff
+housenumber: "26"
+phone: +34 986 211 787
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:30; Sa 09:00-14:00
 website: ""

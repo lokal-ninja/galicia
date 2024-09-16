@@ -1,11 +1,11 @@
 id: 380556429
-type: way
+type: node
 latitude: 43.33248
 longitude: -8.31704
 postcode: ""
 city: Oleiros
-street: "Avenida Francisca Herrera"
-housenumber: 13
+street: Avenida Francisca Herrera
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 221970519
-type: way
+type: node
 latitude: 43.0349
 longitude: -7.5755
 postcode: "27003"
 city: Lugo
-street: "Estrada de A Coruña"
-housenumber: 47
+street: Estrada de A Coruña
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "http://www.grupolmotor.com/"
+website: http://www.grupolmotor.com/

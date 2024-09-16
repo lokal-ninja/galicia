@@ -4,8 +4,8 @@ latitude: 42.88099
 longitude: -8.5426
 postcode: "15704"
 city: Santiago de Compostela
-street: "Praza de Cervantes"
-housenumber: 6
-phone: "981 586 237"
-opening_hours: "Mo-Fr 10:00-13:45,16:30-20:30; Sa 10:00-14:00,17:00-20:30"
-website: "https://librariacouceiro.gal"
+street: Praza de Cervantes
+housenumber: "6"
+phone: 981 586 237
+opening_hours: Mo-Fr 10:00-13:45,16:30-20:30; Sa 10:00-14:00,17:00-20:30
+website: https://librariacouceiro.gal

@@ -1,11 +1,11 @@
 id: 572413570
-type: way
+type: node
 latitude: 43.46472
 longitude: -8.18745
 postcode: "15528"
 city: Fene
-street: "Estrada da Palma"
-housenumber: 64
+street: Estrada da Palma
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

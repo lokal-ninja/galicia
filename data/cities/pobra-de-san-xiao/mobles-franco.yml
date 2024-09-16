@@ -1,11 +1,11 @@
 id: 234719641
-type: way
+type: node
 latitude: 42.86696
 longitude: -7.44748
 postcode: "27360"
 city: Pobra de San Xiao
-street: "LU-546"
-housenumber: 
+street: LU-546
+housenumber: ""
 phone: "+34982543116"
 opening_hours: ""
-website: "https://www.mueblesfranco.com/"
+website: https://www.mueblesfranco.com/

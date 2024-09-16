@@ -4,8 +4,8 @@ latitude: 42.28116
 longitude: -8.60975
 postcode: "36800"
 city: Redondela
-street: "Rúa José Regojo"
-housenumber: 17
-phone: "+34 986 40 21 33"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 16:30-20:30"
-website: "https://ferreteriavidal.es"
+street: Rúa José Regojo
+housenumber: "17"
+phone: +34 986 40 21 33
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 16:30-20:30
+website: https://ferreteriavidal.es

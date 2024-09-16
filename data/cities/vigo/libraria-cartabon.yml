@@ -4,8 +4,8 @@ latitude: 42.23149
 longitude: -8.70858
 postcode: "36205"
 city: Vigo
-street: "Rúa de Urzáiz"
-housenumber: 125
-phone: "+34 986 37 28 83"
-opening_hours: "Mo-Fr 09:00-14:00, 16:30-20:30; Sa 10:00-14:00"
-website: "https://www.librariacartabon.com/"
+street: Rúa de Urzáiz
+housenumber: "125"
+phone: +34 986 37 28 83
+opening_hours: Mo-Fr 09:00-14:00, 16:30-20:30; Sa 10:00-14:00
+website: https://www.librariacartabon.com/

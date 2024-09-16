@@ -1,11 +1,11 @@
 id: 862926225
-type: way
+type: node
 latitude: 43.13521
 longitude: -9.11858
 postcode: "15121"
 city: A Ponte do Porto
-street: "Rúa Gándara"
-housenumber: 34
-phone: "+34 981 73 05 74"
-opening_hours: "Mo-Sa 09:00-21:00; Su off"
-website: "https://www.eroski.es/localizador-de-tiendas/supermercado-fr/a-coruna/camarinas/eroskicity-ponte-do-porto/"
+street: Rúa Gándara
+housenumber: "34"
+phone: +34 981 73 05 74
+opening_hours: Mo-Sa 09:00-21:00; Su off
+website: https://www.eroski.es/localizador-de-tiendas/supermercado-fr/a-coruna/camarinas/eroskicity-ponte-do-porto/

@@ -1,11 +1,11 @@
 id: 495956151
-type: way
+type: node
 latitude: 42.97266
 longitude: -9.19216
 postcode: "15270"
 city: Cee
-street: "O Vilar de Toba"
-housenumber: 
+street: O Vilar de Toba
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es
