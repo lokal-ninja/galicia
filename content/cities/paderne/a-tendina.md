@@ -1,5 +1,5 @@
 ---
-title: "A tendiña"
+title: "A Tendiña"
 url: /paderne/a-tendina/
 shop: lácteos
 ---
