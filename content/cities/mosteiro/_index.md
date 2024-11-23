@@ -1,6 +1,6 @@
 ---
 title: Mosteiro
 url: /mosteiro/
-latitude: 43.13
+latitude: 43.128
 longitude: -7.353
 ---
