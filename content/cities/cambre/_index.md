@@ -1,6 +1,6 @@
 ---
 title: Cambre
 url: /cambre/
-latitude: 43.293
-longitude: -8.343
+latitude: 43.294
+longitude: -8.344
 ---
