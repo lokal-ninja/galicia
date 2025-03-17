@@ -6,6 +6,7 @@ postcode: "15570"
 city: Narón
 street: Avenida de Santa Icía
 housenumber: "108"
-phone: +34 981 431514
-opening_hours: ""
+phone: +34 981 431514;+34 696470813
+opening_hours: 'Mo-Fr: 10:00-13:00,16:00-19:00 "Sábados: Atención con cita previa";
+    Su off'
 website: https://somos-soluciones.es/

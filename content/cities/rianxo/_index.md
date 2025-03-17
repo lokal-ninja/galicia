@@ -1,6 +1,6 @@
 ---
 title: Rianxo
 url: /rianxo/
-latitude: 42.68
-longitude: -8.819
+latitude: 42.65
+longitude: -8.816
 ---
