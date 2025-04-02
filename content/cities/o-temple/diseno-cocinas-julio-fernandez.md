@@ -1,5 +1,5 @@
 ---
 title: "Diseño Cocinas Julio Fernández"
-url: /cambre/diseno-cocinas-julio-fernandez/
+url: /o-temple/diseno-cocinas-julio-fernandez/
 shop: cocina
 ---
