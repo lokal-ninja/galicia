@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /redondela/froiz-rua-jose-regojo/
+url: /a-coruna/froiz-avenida-de-oza/
 shop: supermercado
 ---
