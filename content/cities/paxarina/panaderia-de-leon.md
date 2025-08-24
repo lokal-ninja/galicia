@@ -1,5 +1,5 @@
 ---
 title: "Panadería de León"
-url: /camarinas/panaderia-de-leon/
+url: /paxarina/panaderia-de-leon/
 shop: panadería
 ---
