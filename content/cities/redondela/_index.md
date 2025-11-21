@@ -1,6 +1,6 @@
 ---
 title: Redondela
 url: /redondela/
-latitude: 42.275
-longitude: -8.61
+latitude: 42.282
+longitude: -8.609
 ---
