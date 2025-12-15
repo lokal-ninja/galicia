@@ -1,6 +1,6 @@
 ---
 title: Boiro
 url: /boiro/
-latitude: 42.648
+latitude: 42.645
 longitude: -8.885
 ---

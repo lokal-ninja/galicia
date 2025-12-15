@@ -1,5 +1,5 @@
 ---
-title: "POLYLIGHT COLUMNS"
+title: "Polylight Columns"
 url: /tomino/polylight-columns/
 shop: general
 ---
