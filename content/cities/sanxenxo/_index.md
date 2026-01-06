@@ -1,6 +1,6 @@
 ---
 title: Sanxenxo
 url: /sanxenxo/
-latitude: 42.403
-longitude: -8.809
+latitude: 42.408
+longitude: -8.813
 ---
