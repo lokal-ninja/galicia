@@ -1,6 +1,6 @@
 ---
 title: Muimenta
 url: /muimenta/
-latitude: 43.259
-longitude: -7.453
+latitude: 43.252
+longitude: -7.43
 ---
