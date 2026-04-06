@@ -1,6 +1,6 @@
 ---
 title: Chapela
 url: /chapela/
-latitude: 42.267
-longitude: -8.672
+latitude: 42.269
+longitude: -8.67
 ---
