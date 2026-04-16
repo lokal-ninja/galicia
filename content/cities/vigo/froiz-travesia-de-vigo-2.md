@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /vigo/froiz-avenida-da-gran-via/
+url: /vigo/froiz-travesia-de-vigo-2/
 shop: supermercado
 ---
