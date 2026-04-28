@@ -1,6 +1,6 @@
 ---
 title: Mos
 url: /mos/
-latitude: 42.165
-longitude: -8.645
+latitude: 42.159
+longitude: -8.671
 ---
