@@ -1,6 +1,6 @@
 ---
 title: Lugo
 url: /lugo/
-latitude: 42.999
-longitude: -7.549
+latitude: 43.045
+longitude: -7.561
 ---
