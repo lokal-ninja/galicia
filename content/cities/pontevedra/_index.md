@@ -1,6 +1,6 @@
 ---
 title: Pontevedra
 url: /pontevedra/
-latitude: 42.434
-longitude: -8.643
+latitude: 42.435
+longitude: -8.649
 ---
