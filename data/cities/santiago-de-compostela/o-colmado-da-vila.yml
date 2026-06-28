@@ -7,5 +7,6 @@ city: Santiago de Compostela
 street: Rúa de Alfredo Brañas
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: 'Sep-May: Mo-Fr 10:00-14:00,16:30-20:45; Sep-May: Sa 10:30-14:00,17:00-20:45;
+    Jun-Aug: Mo-Fr 10:00-14:00,17:00-20:45; Jun-Aug: Sa 10:30-14:00'
 website: ""
