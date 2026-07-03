@@ -1,5 +1,5 @@
 ---
-title: "Mia y Lia"
+title: "Mía y Lía"
 url: /ferrol/mia-y-lia/
 shop: ropa
 ---
