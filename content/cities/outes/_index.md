@@ -1,6 +1,6 @@
 ---
 title: Outes
 url: /outes/
-latitude: 42.813
-longitude: -8.934
+latitude: 42.844
+longitude: -8.909
 ---

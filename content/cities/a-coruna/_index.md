@@ -1,6 +1,6 @@
 ---
 title: A Coruña
 url: /a-coruna/
-latitude: 43.374
-longitude: -8.426
+latitude: 43.366
+longitude: -8.424
 ---

@@ -1,6 +1,6 @@
 ---
 title: Allariz
 url: /allariz/
-latitude: 42.186
-longitude: -7.809
+latitude: 42.189
+longitude: -7.803
 ---
