@@ -1,6 +1,6 @@
 ---
 title: Vilasantar
 url: /vilasantar/
-latitude: 43.05
+latitude: 43.049
 longitude: -8.106
 ---
