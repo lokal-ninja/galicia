@@ -1,5 +1,5 @@
 ---
-title: "Federoptica"
+title: "FederÓptica"
 url: /vigo/federoptica/
 shop: óptico
 ---

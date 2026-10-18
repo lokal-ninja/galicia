@@ -1,5 +1,5 @@
 ---
-title: "Frutas katuxa"
+title: "Frutas Katuxa"
 url: /vigo/frutas-katuxa/
 shop: frutería
 ---
