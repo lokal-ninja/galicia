@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
-url: /redondela/froiz-rua-jose-regojo/
+url: /nigran/froiz/
 shop: supermercado
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gondomar
 url: /gondomar/
-latitude: 42.112
-longitude: -8.768
+latitude: 42.11
+longitude: -8.761
 ---
