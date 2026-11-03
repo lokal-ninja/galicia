@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
-url: /cee/gadis-2/
+url: /cee/gadis-rua-da-concordia/
 shop: supermercado
 ---
