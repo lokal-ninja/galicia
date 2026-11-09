@@ -1,5 +1,5 @@
 ---
 title: "LaColada"
-url: /ferrol/lacolada-rua-do-freixo/
+url: /ferrol/lacolada-rua-san-amaro/
 shop: lavandería
 ---
